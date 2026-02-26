@@ -8,5 +8,11 @@ https://cdn.jmvstream.com/w/LVW-15748/LVW15748_Yed7yzLuRC/playlist.m3u8
 #EXTINF:-1,CANAL EDUCAÇÃO
 https://canaleducacao-stream.ebc.com.br/index.m3u8
 
-#EXTINF:-1,LAS ESTELAS
-http://89.117.146.57/televall/YbVVqpeaWU/9.m3u8
+#EXTINF:-1 tvg-id="globo rio de janeiro" tvg-name="Globorj.br" tvg-logo="https://i.imgur.com/waZJG1M.png" Globo RJ HD²
+http://gerenciar.vivatele.com/viva_padrao/viva2384/1
+
+#EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="GLOBO SÃO PAULO" tvg-logo="https://i.imgur.com/waZJG1M.png" Globo SP HD
+http://streaming.sattvgo.com.br/GLOBO_HD/index.m3u8
+
+#EXTINF:-1 tvg-id="RBS TV Porto Alegre" tvg-name="RBS TV Porto Alegre" tvg-logo="https://i.imgur.com/gzb8eGf.png" RBS TV Porto Alegre HD
+http://streaming.sattvgo.com.br/RBS_HD/index.m3u8
