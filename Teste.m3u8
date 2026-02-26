@@ -8,11 +8,11 @@ https://cdn.jmvstream.com/w/LVW-15748/LVW15748_Yed7yzLuRC/playlist.m3u8
 #EXTINF:-1,CANAL EDUCAÇÃO
 https://canaleducacao-stream.ebc.com.br/index.m3u8
 
-#EXTINF:-1,globo RJ HD tvg-logo="https://i.imgur.com/waZJG1M.png"
+#EXTINF:-1 tvg-logo="https://i.imgur.com/waZJG1M.png", globo rj
 http://gerenciar.vivatele.com/viva_padrao/viva2384/1.m3u8
 
-#EXTINF:-1,globo sp tvg-name="GLOBO SÃO PAULO" tvg-logo="https://i.imgur.com/waZJG1M.png"
+#EXTINF:-1 tvg-logo="https://i.imgur.com/waZJG1M.png", globo sp
 http://streaming.sattvgo.com.br/GLOBO_HD/index.m3u8
 
-#EXTINF:-1,rbs tv porto alegre tvg-logo="https://i.imgur.com/gzb8eGf.png"
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gzb8eGf.png", rbs porto alegre
 http://streaming.sattvgo.com.br/RBS_HD/index.m3u8
