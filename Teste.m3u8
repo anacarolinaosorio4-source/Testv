@@ -1,0 +1,6 @@
+#EXTM3U
+#EXTINF:-1,AMAZONSAT
+https://amazonsat.brasilstream.com.br/hls/amazonsat/index.m3u8
+
+#EXTINF:-1,BAND PA
+https://cdn.jmvstream.com/w/LVW-15748/LVW15748_Yed7yzLuRC/playlist.m3u8
