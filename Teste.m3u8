@@ -17,8 +17,14 @@ http://gerenciar.vivatele.com/viva_padrao/viva2384/1.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gzb8eGf.png", rbs porto alegre
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/lyQ1v9M.png", RecordTV SP HD 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lyQ1v9M.png", RecordTV Conquista 
 https://tvconquistalrv.duckdns.org:3334/hls/tvconquistalrv.m3u8?ManoTV
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lyQ1v9M.png", RecordTV Internacional
 https://viamotionhsi.netplus.ch/live/eds/rederecordinternacional/browser-HLS8/rederecordinternacional.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lyQ1v9M.png", RecordTV Juara
+https://cdn.live.br1.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lyQ1v9M.png", RecordTV TV Tropical
+https://video07.logicahost.com.br/portaldatropical/portaldatropical/chunklist_w1630150607.m3u8
