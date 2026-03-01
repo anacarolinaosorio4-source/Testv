@@ -35,7 +35,7 @@ https://player-tvcultura.stream.uol.com.br/live/tvcultura_lsd.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/FP3IE7BXoAI3nAA.jpg", TV Cultura Paulista
 https://srv1.zcast.com.br/tvcultura/tvcultura/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/g47oQ4n.png", SBT
+#EXTINF:-1 tvg-logo="https://grandesnomesdapropaganda.com.br/wp-content/uploads/2014/03/Logo-SBT.jpg", SBT
 https://aovivo.maissbt.com/v1/manifest/215c0da80606fed29372070168106400a6ca7e1a/SSAI_TITAN_V3/ac63b34e-0615-4402-a359-892f205ccd70/5.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IUhjJEM.png", TV Cultura Pará
@@ -46,3 +46,6 @@ https://tvbrasil-stream.ebc.com.br/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/e/ee/TV_Brasil_Internacional_2023.png", TV Brasil Internacional
 https://tvbrasilinternacional-stream.ebc.com.br/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://grandesnomesdapropaganda.com.br/wp-content/uploads/2014/03/Logo-SBT.jpg", SBT Interior
+https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/playlist.m3u8
