@@ -31,3 +31,12 @@ https://video07.logicahost.com.br/portaldatropical/portaldatropical/chunklist_w1
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/FP3IE7BXoAI3nAA.jpg", TV Cultura
 https://player-tvcultura.stream.uol.com.br/live/tvcultura_lsd.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/FP3IE7BXoAI3nAA.jpg", TV Cultura Paulista
+https://srv1.zcast.com.br/tvcultura/tvcultura/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/g47oQ4n.png", SBT
+https://cr7v.short.gy/25mensais/s2/Whats7591634025.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IUhjJEM.png", TV Cultura Pará
+https://www.portalcultura.com.br/playerhtml/funtelpa/tv_funtelpa/chunklist_w144947531.m3u8
