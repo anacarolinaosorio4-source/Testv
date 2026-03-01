@@ -36,7 +36,13 @@ https://player-tvcultura.stream.uol.com.br/live/tvcultura_lsd.m3u8
 https://srv1.zcast.com.br/tvcultura/tvcultura/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/g47oQ4n.png", SBT
-https://cr7v.short.gy/25mensais/s2/Whats7591634025.m3u8
+https://aovivo.maissbt.com/v1/manifest/215c0da80606fed29372070168106400a6ca7e1a/SSAI_TITAN_V3/ac63b34e-0615-4402-a359-892f205ccd70/5.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IUhjJEM.png", TV Cultura Pará
 https://www.portalcultura.com.br/playerhtml/funtelpa/tv_funtelpa/chunklist_w144947531.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9d/TV_Brasil_logo_2009.png", TV Brasil
+https://tvbrasil-stream.ebc.com.br/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/e/ee/TV_Brasil_Internacional_2023.png", TV Brasil Internacional
+https://tvbrasilinternacional-stream.ebc.com.br/index.m3u8
