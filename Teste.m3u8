@@ -2,53 +2,65 @@
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/f/f8/SaoCarlosFC.png", SÃO CARLOS FC
 
 #EXTINF:-1 tvg-logo="https://gremiosaocarlense.com.br/wp-content/uploads/2024/02/LogoGremioSaocarlense.png", GRÊMIO DESPORTIVO SÃO-CARLENSE
-https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1772945758/ei/_qysaauqN4OhobIPyYC8cA/ip/2a09:bac5:dc9:1c8c::2d8:b6/id/CRS3MYPNoIA.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr3---sn-bg0s7nls.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/bui/AVNa5-wZvqF7cmRkrwVM-bCseBbTOeqzmBZr43FM2o_pK2AL7nxpepYoaJoRDGUgOJZnxd_bzcBmkBM4/spc/6dlaFIJs2c4xAdhewhTbKHJpuShH_KuWBuJDBRwkDy2MB2-dJ2XRkw/vprv/1/reg/0/playlist_type/DVR/initcwndbps/2411250/met/1772924159,/mh/Mj/mip/2a09:bac5:dcc:1c8c::2d8:b6/mm/44/mn/sn-bg0s7nls/ms/lva/mv/m/mvi/3/pl/39/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51565115,51565681,51791334/mt/1772923714/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,bui,spc,vprv,reg,playlist_type/sig/AHEqNM4wRgIhAIL2WAnU6bthOb8XFUVx9g4tglpcHhvHWL90CbOaA_EkAiEAn0rJ9rRY_MX_8ArgDNyTQjzdnUxjBXZcG676zdkbIw0%3D/lsparams/hls_chunk_host,initcwndbps,met,mh,mip,mm,mn,ms,mv,mvi,pl,rms/lsig/APaTxxMwRQIgPaq8TjDXvZu8lkc3PjUwty3iIZcapYxylH5RExwv0iICIQCb9Pn7vpoNj-Uc_TFK6HsGnBMb7Z5hMMGWXyYT7AUjzQ%3D%3D/playlist/index.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1773532632/ei/eKG1addFzo7h1Q_3z9CBDQ/ip/2a09:bac1:1160:b0::2d9:63/id/IbKexhcftvs.1/itag/301/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D299/rqh/1/hls_chunk_host/rr4---sn-2obg05-co.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/bui/AVNa5-wcqNojQZHXpXPfeRWDPI2AhRNli82sIXJZ8pQnzP_LoyXLUFbgIrA76sGFAXCZ37Y314hl7MFL/spc/6dlaFP3WaNWmGFEwk-ctrQpQC1vzHGZCXfyGCjtSBLux3bOv8g/vprv/1/reg/0/playlist_type/DVR/initcwndbps/1951250/met/1773511032,/mh/sZ/mip/2a09:bac5:dc8:1c96::2d9:63/mm/44/mn/sn-2obg05-co/ms/lva/mv/m/mvi/4/pl/51/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51565116,51565682,51791334/mt/1773510519/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,bui,spc,vprv,reg,playlist_type/sig/AHEqNM4wRQIhAJSAIhU27QIIsbaPi9sY7-jOEu2QQRJ3OAm5qZJprk0KAiBAT5Vy2c2nP-URmJsfKs6Cih6SfsDu6oJ-BB78IDFzJg%3D%3D/lsparams/hls_chunk_host,initcwndbps,met,mh,mip,mm,mn,ms,mv,mvi,pl,rms/lsig/APaTxxMwRAIgS6z0iO4VdhVhxs5Z5A81saU6SThDlr9nIthaSexspyYCIDJJjeT0WitYk8MctpH-P0oTZQG6BL_8eTuh7kicPYCT/playlist/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://portalamazonia.com/wp-content/uploads/2022/05/b2ap3_medium_logo-2000-sat.jpg", AMAZONSAT
-https://amazonsat.brasilstream.com.br/hls/amazonsat/index.m3u8
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/5/5e/Sbtn2010jpg.jpg/revision/latest/scale-to-width-down/250?cb=20180129064821", SBT News
+https://dai.google.com/linear/hls/pa/event/xeOYqkegRUyawPuCPaN2Rw/stream/2db4f120-1958-48dd-959e-ad2c71a6e55d:SCL2/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://portalaltadefinicao.com/wp-content/uploads/2017/07/RBATV-1.jpg", BAND PA
-https://cdn.jmvstream.com/w/LVW-15748/LVW15748_Yed7yzLuRC/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMT3vswWZ1tK7gVjdiE0aeihNas-fJupe0gg&s", +SBT Novelas
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Canalduca%C3%A7%C3%A3o.png/250px-Canalduca%C3%A7%C3%A3o.png", CANAL EDUCAÇÃO
-https://canaleducacao-stream.ebc.com.br/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d3/%2BSBTRaiz.svg/revision/latest/scale-to-width-down/300?cb=20251213153329", +SBT Raíz
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/waZJG1M.png", globo rj
-http://gerenciar.vivatele.com/viva_padrao/viva2384/1.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logos/images/f/f0/Aratu.webp/revision/latest/scale-to-width-down/260?cb=20260106130144&path-prefix=pt-br", +SBT Kids
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/waZJG1M.png", globo sp
+#EXTINF:-1 tvg-logo="https://cultura.uol.com.br/upload/tvcultura/aovivo/happens_med/20250429175142_330x222.png", TV Cultura Fast
+https://fpa-gateway.tvcultura.com.br:8181/memfs/606caef0-a290-413d-9f1f-8fcdb3a73831.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/gzb8eGf.png", rbs porto alegre
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lyQ1v9M.png", Record TV Internacional
+https://viamotionhsi.netplus.ch/live/eds/rederecordinternational/browser-HLS8/rederecordinternacional.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/e/e/TV_Brasil_Internacional_2023.png", TV Brasil Internacional
+https://tvbrasilinternacional-stream.ebc.com.br/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSe8V3UlZYOQw8V0FuAfSUFZCFPm3VnJMrf1w&s", +SBT
+https://aovivo.maissbt.com/v1/manifest/215c0da80606fed2937207016860600a6ca7e1a/SSAI_TITAN_V3/ac63b34e-0615-4402-a359-892f2055ccd70/5.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrXmxfR4hp3625cOumjooDbkKtoTRNg9Mg5A&s", SBT Interior
+https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lyQ1v9M.png", RecordTV Conquista 
-https://tvconquistalrv.duckdns.org:3334/hls/tvconquistalrv.m3u8?ManoTV
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/lyQ1v9M.png", RecordTV Internacional
-https://viamotionhsi.netplus.ch/live/eds/rederecordinternacional/browser-HLS8/rederecordinternacional.m3u8
+https://tvconquistalrv.duckdns.org:3334/hls/tvconquistalrv.m3u8? ManoTV
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lyQ1v9M.png", RecordTV Juara
 https://cdn.live.br1.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/lyQ1v9M.png", RecordTV TV Tropical
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lyQ1v9M.png", RecordTV Tropical
 https://video07.logicahost.com.br/portaldatropical/portaldatropical/chunklist_w1630150607.m3u8
 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/FP3IE7BXoAI3nAA.jpg", TV Cultura
+#EXTINF:-1 tvg-logo="https://portalaltadefinicao.com/wp-content/uploads/2017/07/RBATV-1.jpg", BAND PA
+https://cdn.jmvstream.com/w/LVW-15748/LVW15748_Yed7yzLuRC/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/waZJG1M.png", globo rj
+http://gerenciar.vivatele.com/viva_padrao/viva2384/1.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/waZJG1M.png", globo
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gzb8eGf.png", rbs porto alegre
+
+#EXTINF:-1 tvg-logo="https://portalamazonia.com/wp-content/uploads/2022/05/b2ap3_medium_logo-2000-sat.jpg", AMAZONSAT
+https://amazonsat.brasilstream.com.br/hls/amazonsat/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Canalduca%C7%C3%A3o.png/250px-Canalduca%C3%A7%C3%A3o.png", CANAL EDUCAÇÃO
+https://canaleducacao-stream.ebc.com.br/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twing.com/media/FP3IE7BXoAI3nAA.jpg", TV Cultura
 https://player-tvcultura.stream.uol.com.br/live/tvcultura_lsd.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/FP3IE7BXoAI3nAA.jpg", TV Cultura Paulista
 https://srv1.zcast.com.br/tvcultura/tvcultura/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://grandesnomesdapropaganda.com.br/wp-content/uploads/2014/03/Logo-SBT.jpg", SBT
-https://aovivo.maissbt.com/v1/manifest/215c0da80606fed29372070168106400a6ca7e1a/SSAI_TITAN_V3/ac63b34e-0615-4402-a359-892f205ccd70/5.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IUhjJEM.png", TV Cultura Pará
 https://www.portalcultura.com.br/playerhtml/funtelpa/tv_funtelpa/chunklist_w144947531.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9d/TV_Brasil_logo_2009.png", TV Brasil
 https://tvbrasil-stream.ebc.com.br/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/e/ee/TV_Brasil_Internacional_2023.png", TV Brasil Internacional
-https://tvbrasilinternacional-stream.ebc.com.br/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://grandesnomesdapropaganda.com.br/wp-content/uploads/2014/03/Logo-SBT.jpg", SBT Interior
-https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/playlist.m3u8
