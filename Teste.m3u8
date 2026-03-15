@@ -19,7 +19,7 @@ https://fpa-gateway.tvcultura.com.br:8181/memfs/606caef0-a290-413d-9f1f-8fcdb3a7
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lyQ1v9M.png", Record TV Internacional
 https://viamotionhsi.netplus.ch/live/eds/rederecordinternational/browser-HLS8/rederecordinternacional.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/e/e/TV_Brasil_Internacional_2023.png", TV Brasil Internacional
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e8/Tvbrasilinternacional.jpg/revision/latest?cb=20210505195329", TV Brasil Internacional
 https://tvbrasilinternacional-stream.ebc.com.br/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSe8V3UlZYOQw8V0FuAfSUFZCFPm3VnJMrf1w&s", +SBT
@@ -41,26 +41,30 @@ https://video07.logicahost.com.br/portaldatropical/portaldatropical/chunklist_w1
 https://cdn.jmvstream.com/w/LVW-15748/LVW15748_Yed7yzLuRC/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/waZJG1M.png", globo rj
-http://gerenciar.vivatele.com/viva_padrao/viva2384/1.m3u8
+http://gerenciar.vivatele.com/viva_padrao/viva2384/1
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/waZJG1M.png", globo
+#EXTINF:-1 tvg-logo="https://i.imgur.com/waZJG1M.png", globo bahia
+http://hls1.sua.tv/live/globotvbahiafhdbr2/s.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gzb8eGf.png", rbs porto alegre
 
 #EXTINF:-1 tvg-logo="https://portalamazonia.com/wp-content/uploads/2022/05/b2ap3_medium_logo-2000-sat.jpg", AMAZONSAT
 https://amazonsat.brasilstream.com.br/hls/amazonsat/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Canalduca%C7%C3%A3o.png/250px-Canalduca%C3%A7%C3%A3o.png", CANAL EDUCAÇÃO
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a5/Canalduca%C3%A7%C3%A3o.png", CANAL EDUCAÇÃO
 https://canaleducacao-stream.ebc.com.br/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://pbs.twing.com/media/FP3IE7BXoAI3nAA.jpg", TV Cultura
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/gn6iein7qkk/hqdefault.jpg", TV Cultura
 https://player-tvcultura.stream.uol.com.br/live/tvcultura_lsd.m3u8
 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/FP3IE7BXoAI3nAA.jpg", TV Cultura Paulista
+#EXTINF:-1 tvg-logo="https://www.itapiranews.com.br/wp-content/uploads/2021/10/tv-cultura-paulista-itapira.jpg", TV Cultura Paulista
 https://srv1.zcast.com.br/tvcultura/tvcultura/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IUhjJEM.png", TV Cultura Pará
 https://www.portalcultura.com.br/playerhtml/funtelpa/tv_funtelpa/chunklist_w144947531.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9d/TV_Brasil_logo_2009.png", TV Brasil
+#EXTINF:-1 tvg-logo="https://rtn.tv.br/wp-content/uploads/sites/38/2025/10/og.jpg", RTNTV TV A Crítica
+https://tv01.zas.media:1936/rtntv/rtntv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/TV_Brasil_logo_2019.svg/3840px-TV_Brasil_logo_2019.svg.png", TV Brasil
 https://tvbrasil-stream.ebc.com.br/index.m3u8
