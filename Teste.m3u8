@@ -1,4 +1,7 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://www.tvonix.com.br/wp-content/uploads/sites/56/2023/02/programacao-1024x538.jpg", TV Onix
+https://tv02.zas.media:1936/tvonix/tvonix/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/f/f8/SaoCarlosFC.png", SÃO CARLOS FC
 
 #EXTINF:-1 tvg-logo="https://gremiosaocarlense.com.br/wp-content/uploads/2024/02/LogoGremioSaocarlense.png", GRÊMIO DESPORTIVO SÃO-CARLENSE
@@ -58,8 +61,26 @@ http://gerenciar.vivatele.com/viva_padrao/viva2384/1
 #EXTINF:-1 tvg-logo="https://i.imgur.com/waZJG1M.png", globo bahia
 http://hls1.sua.tv/live/globotvbahiafhdbr2/s.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/gzb8eGf.png", rbs são paulo
+#EXTINF:-1 tvg-logo="https://i.imgur.com/waZJG1M.png", globo são paulo
 http://s2.micineovs.com/GLOBO/tracks-v1a1/mono.m3u8?token=16FOTt9Ae2m8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2vYqKX5.png", Imperial TV MA
+https://stmv6.voxtvhd.com.br/imperialtv/imperialtv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2vYqKX5.png", RedeTV! PR HD
+https://tv02.zas.media:1936/redetvparana/redetvparana/playlist.m3u8?ManoTV
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2vYqKX5.png", RedeTV! TV Pampa RS
+https://video04.logicahost.com.br/tvpampa/tvpampa/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2vYqKX5.png", TV Guará Caxias 
+https://srv1.zcast.com.br/igo8807/igo8807/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2vYqKX5.png", TV São Luís Maranhão 
+https://stmv1.srvif.com/tvsaoluis8/tvsaoluis8/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2vYqKX5.png", RedTV! Ro
+https://5b33b873179a2.streamlock.net:1443/canal17/livestream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://portalamazonia.com/wp-content/uploads/2022/05/b2ap3_medium_logo-2000-sat.jpg", AMAZONSAT
 https://amazonsat.brasilstream.com.br/hls/amazonsat/index.m3u8
