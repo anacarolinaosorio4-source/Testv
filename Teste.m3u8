@@ -29,7 +29,7 @@ https://aovivo.maissbt.com/v1/manifest/215c0da80606fed2937207016860600a6ca7e1a/S
 https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lyQ1v9M.png", RecordTV Conquista 
-https://tvconquistalrv.duckdns.org:3334/hls/tvconquistalrv.m3u8? ManoTV
+https://tvconquistalrv.duckdns.org:3334/hls/tvconquistalrv.m3u8?ManoTV
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lyQ1v9M.png", RecordTV Juara
 https://cdn.live.br1.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/playlist.m3u8
@@ -37,8 +37,20 @@ https://cdn.live.br1.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lyQ1v9M.png", RecordTV Tropical
 https://video07.logicahost.com.br/portaldatropical/portaldatropical/chunklist_w1630150607.m3u8
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_r11146Ef8WjfdvSzUVe2DVFSJQ06eiEIvQ&s", Record Rio
+http://gerenciar.vivatele.com/live/viva_padrao/viva2384/13
+
 #EXTINF:-1 tvg-logo="https://portalaltadefinicao.com/wp-content/uploads/2017/07/RBATV-1.jpg", BAND PA
 https://cdn.jmvstream.com/w/LVW-15748/LVW15748_Yed7yzLuRC/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8kR-e_ewvHd5bR6KM8DKqCrgBPhdTbgyl2A&s", Band RJ
+http://gerenciar.vivatele.com/viva_padrao/viva2384/3.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/GJLQ036SuP8/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLDNtVbZyVEZJZsLpAkdIbXVDsA2CQ", Band TV RBA TV
+https://cdn.jmvstream.com/w/LVW-15748/LVW15748_Yed7yzLuRC/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://glaucialima.com/wp-content/uploads/2023/10/BAND-E.jpg", Band Arapuan
+https://5b7f3c45ab7c2.streamlock.net/arapuan/ngrp:arapuan_all/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/waZJG1M.png", globo rj
 http://gerenciar.vivatele.com/viva_padrao/viva2384/1
@@ -46,7 +58,8 @@ http://gerenciar.vivatele.com/viva_padrao/viva2384/1
 #EXTINF:-1 tvg-logo="https://i.imgur.com/waZJG1M.png", globo bahia
 http://hls1.sua.tv/live/globotvbahiafhdbr2/s.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/gzb8eGf.png", rbs porto alegre
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gzb8eGf.png", rbs são paulo
+http://s2.micineovs.com/GLOBO/tracks-v1a1/mono.m3u8?token=16FOTt9Ae2m8
 
 #EXTINF:-1 tvg-logo="https://portalamazonia.com/wp-content/uploads/2022/05/b2ap3_medium_logo-2000-sat.jpg", AMAZONSAT
 https://amazonsat.brasilstream.com.br/hls/amazonsat/index.m3u8
