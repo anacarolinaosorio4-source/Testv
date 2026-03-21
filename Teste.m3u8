@@ -29,7 +29,7 @@ https://tvbrasilinternacional-stream.ebc.com.br/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSe8V3UlZYOQw8V0FuAfSUFZCFPm3VnJMrf1w&s", +SBT
 https://dai.google.com/linear/hls/pa/event/fFZqoXTBTp2uYBQtTNsE-w/stream/98e965d2-21e9-4e35-b7e3-5e09f8550216:SCL2/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrXmxfR4hp3625cOumjooDbkKtoTRNg9Mg5A&s", SBT Interior
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrXmxfR4hp3625cOumjooDbkKtoTRNg9Mg5A&s", SBT Interior SP
 https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://tse3.mm.bing.net/th/id/OIP.sg6WjnnBEwrunxd3O_YxvwHaEU?rs=1&pid=ImgDetMain&o=7&rm=3", RecordTV Conquista MT
@@ -50,10 +50,10 @@ https://cdn.jmvstream.com/w/LVW-15748/LVW15748_Yed7yzLuRC/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8kR-e_ewvHd5bR6KM8DKqCrgBPhdTbgyl2A&s", Band RJ
 http://gerenciar.vivatele.com/viva_padrao/viva2384/3.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/GJLQ036SuP8/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLDNtVbZyVEZJZsLpAkdIbXVDsA2CQ", Band TV RBA TV
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/GJLQ036SuP8/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLDNtVbZyVEZJZsLpAkdIbXVDsA2CQ", Band TV RBA TV PA
 https://cdn.jmvstream.com/w/LVW-15748/LVW15748_Yed7yzLuRC/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://glaucialima.com/wp-content/uploads/2023/10/BAND-E.jpg", Band Arapuan
+#EXTINF:-1 tvg-logo="https://glaucialima.com/wp-content/uploads/2023/10/BAND-E.jpg", Band Arapuan PB
 https://5b7f3c45ab7c2.streamlock.net/arapuan/ngrp:arapuan_all/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.vhv.rs/dpng/d/112-1127306_rede-globo-logo-1975-globo-logo-black-png.png", globo rj
