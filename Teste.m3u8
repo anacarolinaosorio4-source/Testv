@@ -27,7 +27,7 @@ https://viamotionhsi.netplus.ch/live/eds/rederecordinternational/browser-HLS8/re
 https://tvbrasilinternacional-stream.ebc.com.br/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSe8V3UlZYOQw8V0FuAfSUFZCFPm3VnJMrf1w&s", +SBT
-https://dai.google.com/linear/hls/pa/event/fFZqoXTBTp2uYBQtTNsE-w/stream/83e8c93a-4c96-4934-bc46-9bfd2158491d:SCL2/variant/1b1e281fdcc52080f18f454e9e6fd03d/bandwidth/755916.m3u8
+https://dai.google.com/linear/hls/pa/event/fFZqoXTBTp2uYBQtTNsE-w/stream/98e965d2-21e9-4e35-b7e3-5e09f8550216:SCL2/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrXmxfR4hp3625cOumjooDbkKtoTRNg9Mg5A&s", SBT Interior
 https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/playlist.m3u8
