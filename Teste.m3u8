@@ -56,13 +56,13 @@ https://cdn.jmvstream.com/w/LVW-15748/LVW15748_Yed7yzLuRC/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://glaucialima.com/wp-content/uploads/2023/10/BAND-E.jpg", Band Arapuan
 https://5b7f3c45ab7c2.streamlock.net/arapuan/ngrp:arapuan_all/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/waZJG1M.png", globo rj
+#EXTINF:-1 tvg-logo="https://www.vhv.rs/dpng/d/112-1127306_rede-globo-logo-1975-globo-logo-black-png.png", globo rj
 http://gerenciar.vivatele.com/viva_padrao/viva2384/1
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/waZJG1M.png", globo bahia
+#EXTINF:-1 tvg-logo="https://www.vhv.rs/dpng/d/112-1127306_rede-globo-logo-1975-globo-logo-black-png.png", globo bahia
 http://hls1.sua.tv/live/globotvbahiafhdbr2/s.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/waZJG1M.png", globo são paulo
+#EXTINF:-1 tvg-logo="https://www.vhv.rs/dpng/d/112-1127306_rede-globo-logo-1975-globo-logo-black-png.png", globo são paulo
 http://s2.micineovs.com/GLOBO/tracks-v1a1/mono.m3u8?token=16FOTt9Ae2m8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2vYqKX5.png", Imperial TV MA
@@ -86,7 +86,7 @@ https://5b33b873179a2.streamlock.net:1443/canal17/livestream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://portalamazonia.com/wp-content/uploads/2022/05/b2ap3_medium_logo-2000-sat.jpg", AMAZONSAT
 https://amazonsat.brasilstream.com.br/hls/amazonsat/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a5/Canalduca%C3%A7%C3%A3o.png", CANAL EDUCAÇÃO
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/cc/canal-educacao-brasilia-br.png", CANAL EDUCAÇÃO
 https://canaleducacao-stream.ebc.com.br/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/gn6iein7qkk/hqdefault.jpg", TV Cultura
@@ -101,5 +101,5 @@ https://www.portalcultura.com.br/playerhtml/funtelpa/tv_funtelpa/chunklist_w1449
 #EXTINF:-1 tvg-logo="https://rtn.tv.br/wp-content/uploads/sites/38/2025/10/og.jpg", RTNTV TV A Crítica
 https://tv01.zas.media:1936/rtntv/rtntv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/TV_Brasil_logo_2019.svg/3840px-TV_Brasil_logo_2019.svg.png", TV Brasil
+#EXTINF:-1 tvg-logo="https://televisao.tv/images/tv-brasil.jpg", TV Brasil
 https://tvbrasil-stream.ebc.com.br/index.m3u8
