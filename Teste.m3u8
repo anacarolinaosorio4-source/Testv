@@ -20,7 +20,7 @@ https://d38s7rrdbnh4oy.cloudfront.net/v1/manifest/215c0da80606fed293720701681064
 #EXTINF:-1 tvg-logo="https://cultura.uol.com.br/upload/tvcultura/aovivo/happens_med/20250429175142_330x222.png", TV Cultura Fast
 https://fpa-gateway.tvcultura.com.br:8181/memfs/606caef0-a290-413d-9f1f-8fcdb3a73831.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/lyQ1v9M.png", Record TV Internacional
+#EXTINF:-1 tvg-logo="https://tse3.mm.bing.net/th/id/OIP.79GTjoV4jqbbkpKLvBufCgAAAA?rs=1&pid=ImgDetMain&o=7&rm=3", Record TV Internacional
 https://viamotionhsi.netplus.ch/live/eds/rederecordinternational/browser-HLS8/rederecordinternacional.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e8/Tvbrasilinternacional.jpg/revision/latest?cb=20210505195329", TV Brasil Internacional
@@ -32,16 +32,16 @@ https://dai.google.com/linear/hls/pa/event/fFZqoXTBTp2uYBQtTNsE-w/stream/98e965d
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrXmxfR4hp3625cOumjooDbkKtoTRNg9Mg5A&s", SBT Interior
 https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/lyQ1v9M.png", RecordTV Conquista 
+#EXTINF:-1 tvg-logo="https://tse3.mm.bing.net/th/id/OIP.sg6WjnnBEwrunxd3O_YxvwHaEU?rs=1&pid=ImgDetMain&o=7&rm=3", RecordTV Conquista MT
 https://tvconquistalrv.duckdns.org:3334/hls/tvconquistalrv.m3u8?ManoTV
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/lyQ1v9M.png", RecordTV Juara
+#EXTINF:-1 tvg-logo="https://tse3.mm.bing.net/th/id/OIP.OCNVLRX5aYOhkbe9x1wzwQHaFL?rs=1&pid=ImgDetMain&o=7&rm=3", RecordTV Juara MT
 https://cdn.live.br1.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/lyQ1v9M.png", RecordTV Tropical
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/Pqjl39oXw8U/maxresdefault.jpg", RecordTV Tropical RN
 https://video07.logicahost.com.br/portaldatropical/portaldatropical/chunklist_w1630150607.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_r11146Ef8WjfdvSzUVe2DVFSJQ06eiEIvQ&s", Record Rio
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_r11146Ef8WjfdvSzUVe2DVFSJQ06eiEIvQ&s", Record RJ
 http://gerenciar.vivatele.com/live/viva_padrao/viva2384/13
 
 #EXTINF:-1 tvg-logo="https://portalaltadefinicao.com/wp-content/uploads/2017/07/RBATV-1.jpg", BAND PA
