@@ -21,7 +21,7 @@ https://d38s7rrdbnh4oy.cloudfront.net/v1/manifest/215c0da80606fed293720701681064
 https://fpa-gateway.tvcultura.com.br:8181/memfs/606caef0-a290-413d-9f1f-8fcdb3a73831.m3u8
 
 #EXTINF:-1 tvg-logo="https://tse3.mm.bing.net/th/id/OIP.79GTjoV4jqbbkpKLvBufCgAAAA?rs=1&pid=ImgDetMain&o=7&rm=3", Record TV Internacional
-https://viamotionhsi.netplus.ch/live/eds/rederecordinternational/browser-HLS8/rederecordinternacional.m3u8
+https://cachehsi1b.netplus.ch/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzc0MjM5MzE1Iiwic2lwIjoiIiwicGF0aCI6Ii9saXZlL2Vkcy9yZWRlcmVjb3JkaW50ZXJuYWNpb25hbC9icm93c2VyLUhMUzgvIiwic2Vzc2lvbl9jZG5faWQiOiI1Mzg5YTg1NzZjMGY0M2JhIiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8xMC4wLjIyOS4xOSIsInNlc3Npb25fdGltZW91dCI6MCwiYXVkIjoiMTEiLCJzb3VyY2VzIjpbNDhdfQ==.8aqli-MiPN7noL7bLe7bap1dvsrfVq-s1X5vVMmHqNJZzKjovQvpvoahy_Jmzsi4_ILgNCGUqzOlutbWLURm5w==/live/eds/rederecordinternacional/browser-HLS8/rederecordinternacional.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e8/Tvbrasilinternacional.jpg/revision/latest?cb=20210505195329", TV Brasil Internacional
 https://tvbrasilinternacional-stream.ebc.com.br/index.m3u8
@@ -47,9 +47,6 @@ https://6836041ea1117.streamlock.net/cverde/cverde/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/a6a493c66269a3d41a77b62c6283ccea.webp", SBT Cuiabá MT
 https://video09.logicahost.com.br/sbtcuiaba/sbtcuiaba/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/xp8dcv9FcdU/hqdefault.jpg", SBT TV Floresta PA
-https://dc-global-16scw-livepush.akamaized.net/live_cdn/nsbUhlxXsbZnlum/emVqPK2sSrR_sJM/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/4b273833114be40759348182b92d5195.webp", SBT TV Guarajá PA
 https://video05.logicahost.com.br/tvguajara/tvguajara/playlist.m3u8
 
@@ -58,6 +55,15 @@ https://tvconquistalrv.duckdns.org:3334/hls/tvconquistalrv.m3u8?ManoTV
 
 #EXTINF:-1 tvg-logo="https://tse3.mm.bing.net/th/id/OIP.OCNVLRX5aYOhkbe9x1wzwQHaFL?rs=1&pid=ImgDetMain&o=7&rm=3", RecordTV Juara MT
 https://cdn.live.br1.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://tse3.mm.bing.net/th/id/OIP.A5_b2uVUiEbLR5iRITbV8gHaEK?rs=1&pid=ImgDetMain&o=7&rm=3", RecordTV TV Vila Real MT
+https://cdn.live.br1.jmvstream.com/w/LVW-10841/LVW10841_mT77z9o2cP/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/f50fbc433dd7abb5be15b099ac762bb0.webp", RecordTV TV Amplitude Juína MT
+https://cdn.live.br1.jmvstream.com/w/LVW-10841/LVW10841_mT77z9o2cP/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://tse4.mm.bing.net/th/id/OIP.kutBVw05TROjvSgOHMSs8gHaEK?pid=ImgDet&w=191&h=107&c=7&o=7&rm=3", RecordTV SICTV RO
+https://parecisfmlive.brasilstream.com.br/hls/parecisfmlive/index.m3u8?token=10625035048351615000
 
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/Pqjl39oXw8U/maxresdefault.jpg", RecordTV Tropical RN
 https://video07.logicahost.com.br/portaldatropical/portaldatropical/chunklist_w1630150607.m3u8
@@ -68,11 +74,12 @@ http://gerenciar.vivatele.com/live/viva_padrao/viva2384/13
 #EXTINF:-1 tvg-logo="https://portalaltadefinicao.com/wp-content/uploads/2017/07/RBATV-1.jpg", BAND PA
 https://cdn.jmvstream.com/w/LVW-15748/LVW15748_Yed7yzLuRC/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8kR-e_ewvHd5bR6KM8DKqCrgBPhdTbgyl2A&s", Band RJ
-http://gerenciar.vivatele.com/viva_padrao/viva2384/3.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/GJLQ036SuP8/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLDNtVbZyVEZJZsLpAkdIbXVDsA2CQ", Band TV RBA TV PA
 https://cdn.jmvstream.com/w/LVW-15748/LVW15748_Yed7yzLuRC/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8kR-e_ewvHd5bR6KM8DKqCrgBPhdTbgyl2A&s", Band RJ
+http://gerenciar.vivatele.com/viva_padrao/viva2384/3.m3u8
 
 #EXTINF:-1 tvg-logo="https://glaucialima.com/wp-content/uploads/2023/10/BAND-E.jpg", Band Arapuan PB
 https://5b7f3c45ab7c2.streamlock.net/arapuan/ngrp:arapuan_all/chunklist.m3u8
@@ -104,7 +111,7 @@ https://stmv1.srvif.com/tvsaoluis8/tvsaoluis8/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2vYqKX5.png", RedTV! Ro
 https://5b33b873179a2.streamlock.net:1443/canal17/livestream/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://portalamazonia.com/wp-content/uploads/2022/05/b2ap3_medium_logo-2000-sat.jpg", AMAZONSAT
+#EXTINF:-1 tvg-logo="https://portalamazonia.com/wp-content/uploads/2022/05/b2ap3_medium_logo-2000-sat.jpg", AMAZONSAT AM
 https://amazonsat.brasilstream.com.br/hls/amazonsat/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/cc/canal-educacao-brasilia-br.png", CANAL EDUCAÇÃO
@@ -113,13 +120,13 @@ https://canaleducacao-stream.ebc.com.br/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/gn6iein7qkk/hqdefault.jpg", TV Cultura
 https://player-tvcultura.stream.uol.com.br/live/tvcultura_lsd.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.itapiranews.com.br/wp-content/uploads/2021/10/tv-cultura-paulista-itapira.jpg", TV Cultura Paulista
+#EXTINF:-1 tvg-logo="https://www.itapiranews.com.br/wp-content/uploads/2021/10/tv-cultura-paulista-itapira.jpg", TV Cultura Paulista SP
 https://srv1.zcast.com.br/tvcultura/tvcultura/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IUhjJEM.png", TV Cultura Pará
 https://www.portalcultura.com.br/playerhtml/funtelpa/tv_funtelpa/chunklist_w144947531.m3u8
 
-#EXTINF:-1 tvg-logo="https://rtn.tv.br/wp-content/uploads/sites/38/2025/10/og.jpg", RTNTV TV A Crítica
+#EXTINF:-1 tvg-logo="https://rtn.tv.br/wp-content/uploads/sites/38/2025/10/og.jpg", RTNTV TV A Crítica SP
 https://tv01.zas.media:1936/rtntv/rtntv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://televisao.tv/images/tv-brasil.jpg", TV Brasil
