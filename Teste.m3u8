@@ -32,6 +32,27 @@ https://dai.google.com/linear/hls/pa/event/fFZqoXTBTp2uYBQtTNsE-w/stream/98e965d
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrXmxfR4hp3625cOumjooDbkKtoTRNg9Mg5A&s", SBT Interior SP
 https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/00eee0416a4b2383b4bad5b85332969e.webp", SBT TV Difusora São Luís MA
+https://stream.amsolution.net.br:8443/live/66db1cf131d45/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/00eee0416a4b2383b4bad5b85332969e.webp", SBT TV Difusora Leste MA
+https://stream.amsolution.net.br:8443/live/60d0a8ea6b884/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/00eee0416a4b2383b4bad5b85332969e.webp", SBT TV Jornal Caruaru PE
+https://cdndirector.dailymotion.com/cdn/live/video/x8u8n0m.m3u8?sec=drCtgnpPotbzqXFGpc2HYZc5RsZvIaukTfM1MvdLVH2_JPKSVqWB2qUw-FrGWX8B2I80TEgsU3sLSvnJXGDYFezJcpFr7BUZAgQpWmO-SKc&dmTs=730000&dmV1st=ab9e9c2d-014a-0beb-c2aa-bcde26b63ffb
+
+#EXTINF:-1 tvg-logo="https://tse2.mm.bing.net/th/id/OIP.NoI6JOZupIH0CHeAeEudewAAAA?pid=ImgDet&w=194&h=155&c=7&o=7&rm=3", SBT TV Cidade Verde PI
+https://6836041ea1117.streamlock.net/cverde/cverde/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/a6a493c66269a3d41a77b62c6283ccea.webp", SBT Cuiabá MT
+https://video09.logicahost.com.br/sbtcuiaba/sbtcuiaba/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/xp8dcv9FcdU/hqdefault.jpg", SBT TV Floresta PA
+https://dc-global-16scw-livepush.akamaized.net/live_cdn/nsbUhlxXsbZnlum/emVqPK2sSrR_sJM/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/4b273833114be40759348182b92d5195.webp", SBT TV Guarajá PA
+https://video05.logicahost.com.br/tvguajara/tvguajara/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://tse3.mm.bing.net/th/id/OIP.sg6WjnnBEwrunxd3O_YxvwHaEU?rs=1&pid=ImgDetMain&o=7&rm=3", RecordTV Conquista MT
 https://tvconquistalrv.duckdns.org:3334/hls/tvconquistalrv.m3u8?ManoTV
 
