@@ -24,13 +24,13 @@ https://d38s7rrdbnh4oy.cloudfront.net/v1/manifest/215c0da80606fed293720701681064
 https://fpa-gateway.tvcultura.com.br:8181/memfs/606caef0-a290-413d-9f1f-8fcdb3a73831.m3u8
 
 #EXTINF:-1 tvg-logo="https://tse3.mm.bing.net/th/id/OIP.79GTjoV4jqbbkpKLvBufCgAAAA?rs=1&pid=ImgDetMain&o=7&rm=3", Record TV Internacional
-https://cachehsi1b.netplus.ch/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzc0MjM5MzE1Iiwic2lwIjoiIiwicGF0aCI6Ii9saXZlL2Vkcy9yZWRlcmVjb3JkaW50ZXJuYWNpb25hbC9icm93c2VyLUhMUzgvIiwic2Vzc2lvbl9jZG5faWQiOiI1Mzg5YTg1NzZjMGY0M2JhIiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8xMC4wLjIyOS4xOSIsInNlc3Npb25fdGltZW91dCI6MCwiYXVkIjoiMTEiLCJzb3VyY2VzIjpbNDhdfQ==.8aqli-MiPN7noL7bLe7bap1dvsrfVq-s1X5vVMmHqNJZzKjovQvpvoahy_Jmzsi4_ILgNCGUqzOlutbWLURm5w==/live/eds/rederecordinternacional/browser-HLS8/rederecordinternacional.m3u8
+https://viamotionhsi.netplus.ch/live/eds/rederecordinternacional/browser-HLS8/rederecordinternacional.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e8/Tvbrasilinternacional.jpg/revision/latest?cb=20210505195329", TV Brasil Internacional
 https://tvbrasilinternacional-stream.ebc.com.br/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSe8V3UlZYOQw8V0FuAfSUFZCFPm3VnJMrf1w&s", +SBT
-https://dai.google.com/linear/hls/pa/event/fFZqoXTBTp2uYBQtTNsE-w/stream/98e965d2-21e9-4e35-b7e3-5e09f8550216:SCL2/master.m3u8
+https://dai.google.com/linear/hls/pa/event/fFZqoXTBTp2uYBQtTNsE-w/stream/4b3fc008-4c5c-44e1-9868-bd441588691d:SCL2/variant/2a669cfce807489c624e5fdebcc02743/bandwidth/6925803.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrXmxfR4hp3625cOumjooDbkKtoTRNg9Mg5A&s", SBT Interior SP
 https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/playlist.m3u8
@@ -41,8 +41,8 @@ https://stream.amsolution.net.br:8443/live/66db1cf131d45/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/00eee0416a4b2383b4bad5b85332969e.webp", SBT TV Difusora Leste MA
 https://stream.amsolution.net.br:8443/live/60d0a8ea6b884/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/00eee0416a4b2383b4bad5b85332969e.webp", SBT TV Jornal Caruaru PE
-https://cdndirector.dailymotion.com/cdn/live/video/x8u8n0m.m3u8?sec=drCtgnpPotbzqXFGpc2HYZc5RsZvIaukTfM1MvdLVH2_JPKSVqWB2qUw-FrGWX8B2I80TEgsU3sLSvnJXGDYFezJcpFr7BUZAgQpWmO-SKc&dmTs=730000&dmV1st=ab9e9c2d-014a-0beb-c2aa-bcde26b63ffb
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQU9HOGY2EZBJcYM5VlstbcM7T-bNst2ovJsg&s", SBT TV Jornal Caruaru PE
+https://live.eu-north-1b.cf.dmcdn.net/sec2(JNsLIjKsUEwsHQ9IG93_6rdO9Ams5cHu2AHcK54lWLQGmayEzAVIi4ZTMG5oZY571nteuwCXYS6nTjV2Di4Ts_4USSSAfopDkrD6Vi61VEH-LAbkLnvVNnU2DKyC7y5X)/dm/3/x8u8n0m/d/live-720.m3u8#cell=lcf-eu-north-1b
 
 #EXTINF:-1 tvg-logo="https://tse2.mm.bing.net/th/id/OIP.NoI6JOZupIH0CHeAeEudewAAAA?pid=ImgDet&w=194&h=155&c=7&o=7&rm=3", SBT TV Cidade Verde PI
 https://6836041ea1117.streamlock.net/cverde/cverde/playlist.m3u8
@@ -134,3 +134,6 @@ https://tv01.zas.media:1936/rtntv/rtntv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://televisao.tv/images/tv-brasil.jpg", TV Brasil
 https://tvbrasil-stream.ebc.com.br/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3G9NiWt.png", TVD News
+http://201.159.95.110:25461/live/site/site/666.m3u8
