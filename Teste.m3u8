@@ -8,7 +8,6 @@ https://d1muf25xa04so8hp05.s27-usa-cloudfront-net.online/token/0e1bcc5507da86621
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/f/f8/SaoCarlosFC.png", SÃO CARLOS FC
 
 #EXTINF:-1 tvg-logo="https://gremiosaocarlense.com.br/wp-content/uploads/2024/02/LogoGremioSaocarlense.png", GRÊMIO DESPORTIVO SÃO-CARLENSE
-https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1773532632/ei/eKG1addFzo7h1Q_3z9CBDQ/ip/2a09:bac1:1160:b0::2d9:63/id/IbKexhcftvs.1/itag/301/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D299/rqh/1/hls_chunk_host/rr4---sn-2obg05-co.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/bui/AVNa5-wcqNojQZHXpXPfeRWDPI2AhRNli82sIXJZ8pQnzP_LoyXLUFbgIrA76sGFAXCZ37Y314hl7MFL/spc/6dlaFP3WaNWmGFEwk-ctrQpQC1vzHGZCXfyGCjtSBLux3bOv8g/vprv/1/reg/0/playlist_type/DVR/initcwndbps/1951250/met/1773511032,/mh/sZ/mip/2a09:bac5:dc8:1c96::2d9:63/mm/44/mn/sn-2obg05-co/ms/lva/mv/m/mvi/4/pl/51/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51565116,51565682,51791334/mt/1773510519/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,bui,spc,vprv,reg,playlist_type/sig/AHEqNM4wRQIhAJSAIhU27QIIsbaPi9sY7-jOEu2QQRJ3OAm5qZJprk0KAiBAT5Vy2c2nP-URmJsfKs6Cih6SfsDu6oJ-BB78IDFzJg%3D%3D/lsparams/hls_chunk_host,initcwndbps,met,mh,mip,mm,mn,ms,mv,mvi,pl,rms/lsig/APaTxxMwRAIgS6z0iO4VdhVhxs5Z5A81saU6SThDlr9nIthaSexspyYCIDJJjeT0WitYk8MctpH-P0oTZQG6BL_8eTuh7kicPYCT/playlist/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/5/5e/Sbtn2010jpg.jpg/revision/latest/scale-to-width-down/250?cb=20180129064821", SBT News
 https://dai.google.com/linear/hls/pa/event/xeOYqkegRUyawPuCPaN2Rw/stream/8297d5bd-98be-4fb8-aca9-5e3a9737d515:SCL2/variant/34f4a658cabf6a860a662eeca0fea4ce/bandwidth/1311756.m3u8
@@ -95,6 +94,9 @@ http://hls1.sua.tv/live/globotvbahiafhdbr2/s.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.vhv.rs/dpng/d/112-1127306_rede-globo-logo-1975-globo-logo-black-png.png", globo são paulo
 http://s2.micineovs.com/GLOBO/tracks-v1a1/mono.m3u8?token=16FOTt9Ae2m8
+
+#EXTINF:-1 tvg-logo="https://www.vhv.rs/dpng/d/112-1127306_rede-globo-logo-1975-globo-logo-black-png.png", globo mg
+https://d1muf25xa04so8hp05.s27-usa-cloudfront-net.online/token/14cbc5ec96cf2f0bbc5500ac2db8d186/globomg.txt
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2vYqKX5.png", Imperial TV MA
 https://stmv6.voxtvhd.com.br/imperialtv/imperialtv/playlist.m3u8
