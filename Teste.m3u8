@@ -2,15 +2,15 @@
 #EXTINF:-1 tvg-logo="https://www.tvonix.com.br/wp-content/uploads/sites/56/2023/02/programacao-1024x538.jpg", TV Onix
 https://tv02.zas.media:1936/tvonix/tvonix/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3f/Xsports_logo.png", Xsports
-https://d1muf25xa04so8hp05.s27-usa-cloudfront-net.online/token/0e1bcc5507da86621da3e07c96da88bd/xsports.txt
+#EXTINF:-1 tvg-logo="https://th.bing.com/th/id/OIP.wqSK7rRXPXEovZ6PYKopegHaBQ?w=326&h=61&c=7&r=0&o=7&pid=1.7&rm=3", Xsports
+https://cdn3embed.xyz/xsports/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/f/f8/SaoCarlosFC.png", SÃO CARLOS FC
 
 #EXTINF:-1 tvg-logo="https://gremiosaocarlense.com.br/wp-content/uploads/2024/02/LogoGremioSaocarlense.png", GRÊMIO DESPORTIVO SÃO-CARLENSE
 
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/5/5e/Sbtn2010jpg.jpg/revision/latest/scale-to-width-down/250?cb=20180129064821", SBT News
-https://dai.google.com/linear/hls/pa/event/xeOYqkegRUyawPuCPaN2Rw/stream/8297d5bd-98be-4fb8-aca9-5e3a9737d515:SCL2/variant/34f4a658cabf6a860a662eeca0fea4ce/bandwidth/1311756.m3u8
+https://sbtnews.maissbt.com/3.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMT3vswWZ1tK7gVjdiE0aeihNas-fJupe0gg&s", +SBT Novelas
 
@@ -139,3 +139,12 @@ https://tvbrasil-stream.ebc.com.br/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3G9NiWt.png", TVD News
 http://201.159.95.110:25461/live/site/site/666.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/734435ffe016d239b400dfc5bb56f35e.webp", FIFA+ Espanha
+https://d63fabad.wurl.com/manifest/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWVzX0ZJRkFQbHVzU3BhbmlzaF9ITFM/5aee7d3c-5f11-4544-b3ee-b7e762138622/0.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/734435ffe016d239b400dfc5bb56f35e.webp", FIFA+ Suíça
+https://c2657533.wurl.com/manifest/f36d25e7e52f1ba8d7e56eb859c636563214f541/UGxleC1icl9GSUZBUGx1c1BvcnR1Z3Vlc2VfSExT/746669e5-ac0c-49af-b1d7-741df05f8588/0.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/734435ffe016d239b400dfc5bb56f35e.webp", FIFA+ Reino Unido
+https://a62dad94.wurl.com/manifest/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0ZJRkFQbHVzRW5nbGlzaF9ITFM/aa723717-fa3e-4814-9160-6e9ed43808d8/0.m3u8
