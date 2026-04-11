@@ -145,3 +145,9 @@ https://c2657533.wurl.com/manifest/f36d25e7e52f1ba8d7e56eb859c636563214f541/UGxl
 
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/734435ffe016d239b400dfc5bb56f35e.webp", FIFA+ Reino Unido
 https://a62dad94.wurl.com/manifest/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0ZJRkFQbHVzRW5nbGlzaF9ITFM/aa723717-fa3e-4814-9160-6e9ed43808d8/0.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dO4krB3.png", TV Ra Tim Bum
+http://gerenciar.vivatele.com/viva_padrao/viva2384/15
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zDbdnwu.png", DreamWorks
+https://cdn-3.nxplay.com.br/DREAMWORKS/index.m3u8
