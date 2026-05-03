@@ -2,8 +2,10 @@
 #EXTINF:-1 tvg-logo="https://www.tvonix.com.br/wp-content/uploads/sites/56/2023/02/programacao-1024x538.jpg", TV Onix
 https://tv02.zas.media:1936/tvonix/tvonix/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQR2QNnMjI4AiLjigPeAcaViyQnPJmQ7kqP1w&s", Eldorado 107,3 15/5
+https://19253.live.streamtheworld.com:443/RADIO_ELDORADOAAC/HLS/0dfe7587-8554-471c-86a3-a96c2fe0a9e0/0/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://th.bing.com/th/id/OIP.wqSK7rRXPXEovZ6PYKopegHaBQ?w=326&h=61&c=7&r=0&o=7&pid=1.7&rm=3", Xsports
-https://xn---22--11--33--88--75---------b25zjfpkmbt1n9g9zza94e.xn----------------g34l3fkcn6n2hmd3acobj33ac2a7a8lufomma7cf2b1sh.xn---1l1--5o4dxb.xn--pck.xn--zck.xn--0ck.xn--pck.xn--yck.xn-----0b4asja8cbew2b4b0gd0edbjm2jpa1b1e9zva7a0347s4da2797e7qri.xn--1ck2e1b/docs/xsports/__index.m3u8?cc=y&sv=157&nu3zAQc9HC3GbwJq=1777823054-lHgcRh48vGRhjEv3O47JSygIm9LPDKOBMtAjitLNfx4%3D
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/f/f8/SaoCarlosFC.png", SÃO CARLOS FC
 
