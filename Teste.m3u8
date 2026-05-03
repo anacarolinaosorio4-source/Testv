@@ -3,12 +3,11 @@
 https://tv02.zas.media:1936/tvonix/tvonix/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://th.bing.com/th/id/OIP.wqSK7rRXPXEovZ6PYKopegHaBQ?w=326&h=61&c=7&r=0&o=7&pid=1.7&rm=3", Xsports
-https://d1muf25xa04so8hp11.cloudfront.lat/stream/nossoplayer/f694220e30bc6d641aea298a9f3556d0/xsports.txt
+https://xn---22--11--33--88--75---------b25zjfpkmbt1n9g9zza94e.xn----------------g34l3fkcn6n2hmd3acobj33ac2a7a8lufomma7cf2b1sh.xn---1l1--5o4dxb.xn--pck.xn--zck.xn--0ck.xn--pck.xn--yck.xn-----0b4asja8cbew2b4b0gd0edbjm2jpa1b1e9zva7a0347s4da2797e7qri.xn--1ck2e1b/docs/xsports/__index.m3u8?cc=y&sv=157&nu3zAQc9HC3GbwJq=1777823054-lHgcRh48vGRhjEv3O47JSygIm9LPDKOBMtAjitLNfx4%3D
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/f/f8/SaoCarlosFC.png", SÃO CARLOS FC
 
 #EXTINF:-1 tvg-logo="https://gremiosaocarlense.com.br/wp-content/uploads/2024/02/LogoGremioSaocarlense.png", GRÊMIO DESPORTIVO SÃO-CARLENSE
-https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1777686816/ei/wAT1aauvBpGnobIPw925uQU/ip/191.189.110.60/id/5REvkl-l9zE.2/itag/301/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D299/rqh/1/hls_chunk_host/rr1---sn-oxunxg8pjvn-j29ss.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/bui/AbKmrwqkuC7lDGhYQRq_zO1VntXud1N03CRncMlP_86yssAbnXkhVfyInQNpEiqu-zq01uZM8iBoLE9C/spc/96Xrv_uW-sSWr34lpXQ0imJp4Za_VViRn7pj8V5-dcafPdw7nQ/vprv/1/reg/0/playlist_type/DVR/hcs/sd/initcwndbps/2332500/met/1777665217,/mh/_W/mm/44/mn/sn-oxunxg8pjvn-j29ss/ms/lva/mv/m/mvi/1/pl/22/rms/lva,lva/smhost/rr1---sn-oxunxg8pjvn-j29sk.googlevideo.com/dover/11/pacing/0/keepalive/yes/fexp/51565116,51565681/mt/1777664671/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,bui,spc,vprv,reg,playlist_type/sig/AHEqNM4wRQIgbhHjx0_rDlgOx-gHZ-3rfc2jHga8av1dAvrt0lhGNlsCIQCCZR187Z2yRhpple_1Q8jY_fSpTlBjxWikrzLQSw-jYw%3D%3D/lsparams/hls_chunk_host,hcs,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pl,rms,smhost/lsig/APaTxxMwRgIhAOyHXLztDPA_WhoPOu7sD569R3-QMdpIv7SQaylKOUXlAiEAiOxc1PbhzgD8SyvwnujOMNXSSxZOKcRarAQPWBLrG9g%3D/playlist/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/5/5e/Sbtn2010jpg.jpg/revision/latest/scale-to-width-down/250?cb=20180129064821", SBT News
 https://sbtnews.maissbt.com/3.m3u8
@@ -29,8 +28,7 @@ https://viamotionhsi.netplus.ch/live/eds/rederecordinternacional/browser-HLS8/re
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e8/Tvbrasilinternacional.jpg/revision/latest?cb=20210505195329", TV Brasil Internacional
 https://tvbrasilinternacional-stream.ebc.com.br/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSe8V3UlZYOQw8V0FuAfSUFZCFPm3VnJMrf1w&s", SBT
-https://dai.google.com/linear/hls/pa/event/fFZqoXTBTp2uYBQtTNsE-w/stream/4b3fc008-4c5c-44e1-9868-bd441588691d:SCL2/variant/2a669cfce807489c624e5fdebcc02743/bandwidth/6925803.m3u8
+#EXTINF:-1 tvg-logo="https://toppng.com/uploads/preview/sbt-vector-logo-download-free-11574196918wp2iw7t5t6.png", SBT
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrXmxfR4hp3625cOumjooDbkKtoTRNg9Mg5A&s", SBT Interior SP
 https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/playlist.m3u8
