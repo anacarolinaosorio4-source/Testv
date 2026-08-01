@@ -2,11 +2,11 @@
 #EXTINF:-1 tvg-logo="https://www.tvonix.com.br/wp-content/uploads/sites/56/2023/02/programacao-1024x538.jpg", TV Onix
 https://tv02.zas.media:1936/tvonix/tvonix/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQR2QNnMjI4AiLjigPeAcaViyQnPJmQ7kqP1w&s", teste
-https://8994803e454548319ffc0775bc04e0c1.mediatailor.us-east-1.amazonaws.com/v1/manifest/215c0da80606fed29372070168106400a6ca7e1a/SSAI-TVZyn/c21c59eb-3ed1-4414-995c-28771c07116c/0.m3u8
+#EXTINF:-1 tvg-logo="https://dbc.fm.br/assets/uploads/logo_20260214_142027_2d5ca82e.png", DBF FM 106,3
+https://cc6.streammaximum.com:20002/stream?nocache=1785612704860
 
 #EXTINF:-1 tvg-logo="https://th.bing.com/th/id/OIP.wqSK7rRXPXEovZ6PYKopegHaBQ?w=326&h=61&c=7&r=0&o=7&pid=1.7&rm=3", Xsports
-https://c38c60de91d41b17bdbb5dd970c10c4b.cazetv.shop/nossoplayer/1e0f64e403dc54047148ecd7ba949d4d/file.txt
+https://7bb77d0b9c2ad7c556d82b6b2e69798e.cazetv.shop/nossoplayer/d1daec163298fdba424bd00107c8709b/file.txt
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/f/f8/SaoCarlosFC.png", SÃO CARLOS FC
 
@@ -16,13 +16,11 @@ https://c38c60de91d41b17bdbb5dd970c10c4b.cazetv.shop/nossoplayer/1e0f64e403dc540
 https://sbtnews.maissbt.com/3.m3u8
 
 #EXTINF:-1 tvg-logo="https://mais.sbt.com.br/_next/image?url=https%3A%2F%2Fstream.maissbt.com%2Fuploads%2F8ca8a009-33e5-444c-80e4-18c7a1838243.png&w=256&q=75", Show do Milhão
-https://8994803e454548319ffc0775bc04e0c1.mediatailor.us-east-1.amazonaws.com/v1/manifest/215c0da80606fed29372070168106400a6ca7e1a/SSAI-TVZyn/c21c59eb-3ed1-4414-995c-28771c07116c/0.m3u8
 
 #EXTINF:-1 tvg-logo="https://cultura.uol.com.br/upload/tvcultura/aovivo/happens_med/20250429175142_330x222.png", TV Cultura Fast
 https://fpa-gateway.tvcultura.com.br:8181/memfs/606caef0-a290-413d-9f1f-8fcdb3a73831.m3u8
 
 #EXTINF:-1 tvg-logo="https://tse3.mm.bing.net/th/id/OIP.79GTjoV4jqbbkpKLvBufCgAAAA?rs=1&pid=ImgDetMain&o=7&rm=3", Record TV Internacional
-https://viamotionhsi.netplus.ch/live/eds/rederecordinternacional/browser-HLS8/rederecordinternacional.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e8/Tvbrasilinternacional.jpg/revision/latest?cb=20210505195329", TV Brasil Internacional
 https://tvbrasilinternacional-stream.ebc.com.br/index.m3u8
@@ -46,7 +44,6 @@ https://stream.amsolution.net.br:8443/live/60d0a8ea6b884/index.m3u8
 https://6836041ea1117.streamlock.net/cverde/cverde/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/a6a493c66269a3d41a77b62c6283ccea.webp", SBT Cuiabá MT
-https://video09.logicahost.com.br/sbtcuiaba/sbtcuiaba/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/4b273833114be40759348182b92d5195.webp", SBT TV Guarajá PA
 https://video05.logicahost.com.br/tvguajara/tvguajara/playlist.m3u8
@@ -55,7 +52,6 @@ https://video05.logicahost.com.br/tvguajara/tvguajara/playlist.m3u8
 https://cdn.live.br1.jmvstream.com/w/LVW-9359/LVW9359_XSyReL0QVf/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://tse3.mm.bing.net/th/id/OIP.sg6WjnnBEwrunxd3O_YxvwHaEU?rs=1&pid=ImgDetMain&o=7&rm=3", RecordTV Conquista MT
-https://tvconquistalrv.duckdns.org:3334/hls/tvconquistalrv.m3u8?ManoTV
 
 #EXTINF:-1 tvg-logo="https://tse3.mm.bing.net/th/id/OIP.OCNVLRX5aYOhkbe9x1wzwQHaFL?rs=1&pid=ImgDetMain&o=7&rm=3", RecordTV Juara MT
 https://cdn.live.br1.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/playlist.m3u8
@@ -70,10 +66,10 @@ https://cdn.live.br1.jmvstream.com/w/LVW-10841/LVW10841_mT77z9o2cP/playlist.m3u8
 https://parecisfmlive.brasilstream.com.br/hls/parecisfmlive/index.m3u8?token=10625035048351615000
 
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/Pqjl39oXw8U/maxresdefault.jpg", RecordTV Tropical RN
-https://video07.logicahost.com.br/portaldatropical/portaldatropical/chunklist_w1630150607.m3u8
+https://video08.logicahost.com.br/portaldatropical02/portaldatropical02/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_r11146Ef8WjfdvSzUVe2DVFSJQ06eiEIvQ&s", Record RJ
-http://gerenciar.vivatele.com/live/viva_padrao/viva2384/13
+https://gerenciar.vivatele.com/auth/13.m3u8?token=uQC1i4gcpXelnGPS74O0Co-b71pG8KQRhMuMWnnDqKeTIomgnDRRaiGUEpY0MOki4rdekj_Z7lIbaIwmPIcbb-mOrndp8U-x92om_ko6GaQuBr3JdxNuZo8pkxCzjwLhn-fq7P-AiQp2HcgTl5Y2UOTppfXOkC3rPRiOQhF4s1YejvwYMlVf2BIEhBQU8deh-m3ZQWAzsqJ4rpwOEhEP9D6yA-YgJfAaKD2vtHJyKbfXWQbJf6OQplTLVwoFH6oBB_XWP9M__oZsDscPN219FIVZb5reSO1WUd1RNTIMbH8b_ipkK7AExSt9tNLRAiD7L7hD-dLHptyYStQgOxkc6aunR98jzA9PTCIzrOPzuHxME9GJmLeVJfamQ561a9rs0nmRIfPH9IErvYkNjSaKWYkit8C_8TGrcuySxICT5LmivWG8c6iOs0WhVgeHXFkEGW4cJuC38R_P7JfxwJ1Bp2VWZrrVgb5D1IhZxRJVwhrQJKqWCh9GwAcaXMmIjrSYw_NfO0K0aP38BfABIusz2SV1Eng1pvf2Kg7atsVMVAxiUHEeoi8VJfsc0iyWZzoFe0jor5COzv8GHusc_H7TwFyVPZ9ATvcQZSuZ-beoQJs
 
 #EXTINF:-1 tvg-logo="https://portalaltadefinicao.com/wp-content/uploads/2017/07/RBATV-1.jpg", BAND PA
 https://cdn.jmvstream.com/w/LVW-15748/LVW15748_Yed7yzLuRC/playlist.m3u8
@@ -82,7 +78,7 @@ https://cdn.jmvstream.com/w/LVW-15748/LVW15748_Yed7yzLuRC/playlist.m3u8
 https://cdn.jmvstream.com/w/LVW-15748/LVW15748_Yed7yzLuRC/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8kR-e_ewvHd5bR6KM8DKqCrgBPhdTbgyl2A&s", Band RJ
-http://gerenciar.vivatele.com/viva_padrao/viva2384/3.m3u8
+https://hqf6tcxuhk.singularcdn.net.br/live/0194f211-4229-749f-a47e-58f819471024/s1/playlist-720p.m3u8?sjwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImZkMWZmNTY4LWMyZDYtNDUzOS04OTQ1LWU2YWE1ZmEwNjAxMSIsImlzcyI6IlNwYWxsYSIsImlhdCI6MTc4NTYxMTc2MCwibmJmIjoxNzg1NjExNzYwLCJleHAiOjE3ODgyMDM3NjAsInVyaV9zdWIiOiIvMDE5NGYyMTEtNDIyOS03NDlmLWE0N2UtNThmODE5NDcxMDI0LyIsInVpZCI6ImZkMWZmNTY4LWMyZDYtNDUzOS04OTQ1LWU2YWE1ZmEwNjAxMSIsImJleSI6ZmFsc2UsImlpcCI6ZmFsc2UsImRwciI6ZmFsc2V9.xrJKYMq52FL7hFbjdrxwlbF9gs0zYWQCQ0D9AAz5v14&uid=fd1ff568-c2d6-4539-8945-e6aa5fa06011
 
 #EXTINF:-1 tvg-logo="https://glaucialima.com/wp-content/uploads/2023/10/BAND-E.jpg", Band Arapuan PB
 https://5b7f3c45ab7c2.streamlock.net/arapuan/ngrp:arapuan_all/chunklist.m3u8
@@ -138,9 +134,6 @@ https://tv01.zas.media:1936/rtntv/rtntv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://televisao.tv/images/tv-brasil.jpg", TV Brasil
 https://tvbrasil-stream.ebc.com.br/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/3G9NiWt.png", TVD News
-http://201.159.95.110:25461/live/site/site/666.m3u8
-
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/734435ffe016d239b400dfc5bb56f35e.webp", FIFA+ Espanha
 https://d63fabad.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWVzX0ZJRkFQbHVzU3BhbmlzaF9ITFM/playlist.m3u8
 
@@ -177,6 +170,8 @@ http://dns.explouddev.com:80/632270679/F823j7133R/112002
 #EXTINF:-1 tvg-logo="https://imgur.com/tS7t12k.png", SportTV 5 HD
 http://dns.explouddev.com:80/632270679/F823j7133R/112004
 
-
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/wka8kCa1T00Nu_jttjMzUWWuPPMgtccYRfF0EqWasLp-pC0DEeTpdHwMKf1KjUHhdA", Revista Oeste
 https://live.uvotv.com/hls/live/2119960/oestenews/streams/sessions/753cea9dc42d43f7bb145bf39ea6e459/media/playlist-orig.m3u8/fstl=exp=1782102488~acl=%2Fhls%2Flive%2F2119960%2Foestenews%2F%2A~hmac=c68fc0619c055a92ae052510fad57bb5816b377576fc875d9f88d723ec644eca/0.m3u8?CMCD=br%3D2128%2Ccid%3D%223429-live%22%2Cdl%3D0%2Cmtp%3D7400%2Cot%3Dm%2Csf%3Dh%2Csid%3D%22fa2cc90d-1635-4fa4-91a8-a0dd8e0d2539%22%2Cst%3Dl%2Ctb%3D2128
+
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/043f14943bd28c969a53abfd08ad8145.webp", TV Alerj
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1785633810/ei/skduaqT_AsyJg-UPud218AQ/ip/104.28.165.137/id/bZfzA64DM_E.3/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr5---sn-1gi7znes.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/bui/AZFlqhMPRq2HZz6IzeHVAlzIsAXVGaXkhkL0SgTo3GBLXEq_YmzfzALhPD7e801GuDKytns4o6iscVmW/spc/KBGBcoB6wqYaTpyv0XRPZQH6M-fRAC4TTMRyINa07yIS9lGFtA/vprv/1/reg/0/playlist_type/DVR/initcwndbps/1522500/met/1785612212,/mh/v7/mm/44/mn/sn-1gi7znes/ms/lva/mv/m/mvi/5/pl/24/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51565115/mt/1785611794/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,bui,spc,vprv,reg,playlist_type/sig/AE0s2JYwRAIgNj4P6KnnPZHOPjS_YqIxHJ9PVM_Y2Itt72d7gOEb6skCIDxfyqIePMDeQT60Pv593vk_xPLi6_OOHn8o3QbXsENF/lsparams/hls_chunk_host,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/APaTxxMwRgIhAP7b34bIi5FvMpwS3bQ0AT0rAR0Lc6TzooGRIQFmlM2-AiEA3ssa_soTtShtHy7EdzCZ-UTF-z0GizS_EOag9uRGtfE%3D/playlist/index.m3u8
