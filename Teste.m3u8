@@ -61,7 +61,7 @@ https://video08.logicahost.com.br/portaldatropical02/portaldatropical02/playlist
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/vrvBCSXC1aM/sddefault.jpg", Record News
 https://rnw-rn.otteravision.com/rnw/rn/rnw_rn.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/isuhb1VguhQ/maxresdefault.jpg" Record News TV Guará 
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/isuhb1VguhQ/maxresdefault.jpg", Record News TV Guará 
 https://video02.logicahost.com.br/tvguara23/tvguara23/chunklist_w1492418717.m3u8
 
 #EXTINF:-1 tvg-logo="https://portalaltadefinicao.com/wp-content/uploads/2017/07/RBATV-1.jpg", BAND PA
@@ -133,7 +133,7 @@ https://tvbrasil-stream.ebc.com.br/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/47/TVE_RS_%281999%29.png/revision/latest?cb=20170401214014", TVE RS (TV Brasil)
 https://streaming.procergs.com.br:8443/tve/stve/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/db/TV_A_Cr%C3%ADtica_2019.svg/revision/latest?cb=20231218232850" TV A Crítica
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/db/TV_A_Cr%C3%ADtica_2019.svg/revision/latest?cb=20231218232850", TV A Crítica
 https://cdn.live.br1.jmvstream.com/w/LVW-20715/LVW20715_50E3x2MCm2/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/734435ffe016d239b400dfc5bb56f35e.webp", FIFA+ Espanha
