@@ -2,11 +2,11 @@
 #EXTINF:-1 tvg-logo="https://www.tvonix.com.br/wp-content/uploads/sites/56/2023/02/programacao-1024x538.jpg", TV Onix
 https://tv02.zas.media:1936/tvonix/tvonix/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://dbc.fm.br/assets/uploads/logo_20260214_142027_2d5ca82e.png", DBF FM 106,3
+#EXTINF:-1 tvg-logo="https://dbc.fm.br/assets/uploads/logo_20260214_142027_2d5ca82e.png", DBC FM 106.3
 https://cc6.streammaximum.com:20002/stream?nocache=1785612704860
 
 #EXTINF:-1 tvg-logo="https://th.bing.com/th/id/OIP.wqSK7rRXPXEovZ6PYKopegHaBQ?w=326&h=61&c=7&r=0&o=7&pid=1.7&rm=3", Xsports
-https://7bb77d0b9c2ad7c556d82b6b2e69798e.cazetv.shop/nossoplayer/d1daec163298fdba424bd00107c8709b/file.txt
+https://rdcstream.life/live/xsports/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/f/f8/SaoCarlosFC.png", SÃO CARLOS FC
 
@@ -25,25 +25,17 @@ https://fpa-gateway.tvcultura.com.br:8181/memfs/606caef0-a290-413d-9f1f-8fcdb3a7
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e8/Tvbrasilinternacional.jpg/revision/latest?cb=20210505195329", TV Brasil Internacional
 https://tvbrasilinternacional-stream.ebc.com.br/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://televisao.tv/images/tv-carioca.jpg", TV Carioca Internacial RJ
+https://video03.logicahost.com.br/cariocainternacional1/cariocainternacional1/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://toppng.com/uploads/preview/sbt-vector-logo-download-free-11574196918wp2iw7t5t6.png",+SBT HD
 https://cr7v.short.gy/25mensais/s2/Whats7591634025.m3u8
-
-#EXTINF:-1 tvg-logo="https://statics.otvfoco.com.br/2016/06/sbtsp.png", SBT São Paulo
-https://t5r4e3w2q1y0-cloudflare-net.cloudflaire.lat/assets/themes/test_dc73c22035478134ffd6f2702c9dfa93/style.css
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrXmxfR4hp3625cOumjooDbkKtoTRNg9Mg5A&s", SBT Interior SP
 https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/00eee0416a4b2383b4bad5b85332969e.webp", SBT TV Difusora São Luís MA
-https://stream.amsolution.net.br:8443/live/66db1cf131d45/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/00eee0416a4b2383b4bad5b85332969e.webp", SBT TV Difusora Leste MA
-https://stream.amsolution.net.br:8443/live/60d0a8ea6b884/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://tse2.mm.bing.net/th/id/OIP.NoI6JOZupIH0CHeAeEudewAAAA?pid=ImgDet&w=194&h=155&c=7&o=7&rm=3", SBT TV Cidade Verde PI
 https://6836041ea1117.streamlock.net/cverde/cverde/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/a6a493c66269a3d41a77b62c6283ccea.webp", SBT Cuiabá MT
 
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/4b273833114be40759348182b92d5195.webp", SBT TV Guarajá PA
 https://video05.logicahost.com.br/tvguajara/tvguajara/playlist.m3u8
@@ -52,6 +44,7 @@ https://video05.logicahost.com.br/tvguajara/tvguajara/playlist.m3u8
 https://cdn.live.br1.jmvstream.com/w/LVW-9359/LVW9359_XSyReL0QVf/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://tse3.mm.bing.net/th/id/OIP.sg6WjnnBEwrunxd3O_YxvwHaEU?rs=1&pid=ImgDetMain&o=7&rm=3", RecordTV Conquista MT
+https://tvconquistalrv.duckdns.org:3334/hls/tvconquistalrv.m3u8
 
 #EXTINF:-1 tvg-logo="https://tse3.mm.bing.net/th/id/OIP.OCNVLRX5aYOhkbe9x1wzwQHaFL?rs=1&pid=ImgDetMain&o=7&rm=3", RecordTV Juara MT
 https://cdn.live.br1.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/playlist.m3u8
@@ -62,14 +55,14 @@ https://cdn.live.br1.jmvstream.com/w/LVW-10841/LVW10841_mT77z9o2cP/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/f50fbc433dd7abb5be15b099ac762bb0.webp", RecordTV TV Amplitude Juína MT
 https://cdn.live.br1.jmvstream.com/w/LVW-10841/LVW10841_mT77z9o2cP/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://tse4.mm.bing.net/th/id/OIP.kutBVw05TROjvSgOHMSs8gHaEK?pid=ImgDet&w=191&h=107&c=7&o=7&rm=3", RecordTV SICTV RO
-https://parecisfmlive.brasilstream.com.br/hls/parecisfmlive/index.m3u8?token=10625035048351615000
-
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/Pqjl39oXw8U/maxresdefault.jpg", RecordTV Tropical RN
 https://video08.logicahost.com.br/portaldatropical02/portaldatropical02/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_r11146Ef8WjfdvSzUVe2DVFSJQ06eiEIvQ&s", Record RJ
-https://gerenciar.vivatele.com/auth/13.m3u8?token=uQC1i4gcpXelnGPS74O0Co-b71pG8KQRhMuMWnnDqKeTIomgnDRRaiGUEpY0MOki4rdekj_Z7lIbaIwmPIcbb-mOrndp8U-x92om_ko6GaQuBr3JdxNuZo8pkxCzjwLhn-fq7P-AiQp2HcgTl5Y2UOTppfXOkC3rPRiOQhF4s1YejvwYMlVf2BIEhBQU8deh-m3ZQWAzsqJ4rpwOEhEP9D6yA-YgJfAaKD2vtHJyKbfXWQbJf6OQplTLVwoFH6oBB_XWP9M__oZsDscPN219FIVZb5reSO1WUd1RNTIMbH8b_ipkK7AExSt9tNLRAiD7L7hD-dLHptyYStQgOxkc6aunR98jzA9PTCIzrOPzuHxME9GJmLeVJfamQ561a9rs0nmRIfPH9IErvYkNjSaKWYkit8C_8TGrcuySxICT5LmivWG8c6iOs0WhVgeHXFkEGW4cJuC38R_P7JfxwJ1Bp2VWZrrVgb5D1IhZxRJVwhrQJKqWCh9GwAcaXMmIjrSYw_NfO0K0aP38BfABIusz2SV1Eng1pvf2Kg7atsVMVAxiUHEeoi8VJfsc0iyWZzoFe0jor5COzv8GHusc_H7TwFyVPZ9ATvcQZSuZ-beoQJs
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/vrvBCSXC1aM/sddefault.jpg", Record News
+https://rnw-rn.otteravision.com/rnw/rn/rnw_rn.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/isuhb1VguhQ/maxresdefault.jpg" Record News TV Guará 
+https://video02.logicahost.com.br/tvguara23/tvguara23/chunklist_w1492418717.m3u8
 
 #EXTINF:-1 tvg-logo="https://portalaltadefinicao.com/wp-content/uploads/2017/07/RBATV-1.jpg", BAND PA
 https://cdn.jmvstream.com/w/LVW-15748/LVW15748_Yed7yzLuRC/playlist.m3u8
@@ -128,11 +121,20 @@ https://srv1.zcast.com.br/tvcultura/tvcultura/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IUhjJEM.png", TV Cultura Pará
 https://www.portalcultura.com.br/playerhtml/funtelpa/tv_funtelpa/chunklist_w144947531.m3u8
 
-#EXTINF:-1 tvg-logo="https://rtn.tv.br/wp-content/uploads/sites/38/2025/10/og.jpg", RTNTV TV A Crítica SP
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/74/Tvbrasilcentral1995.jpg/revision/latest?cb=20200423190420", TV Brasil Central (TV Cultura Goiás)
+https://tbc.zoeweb.tv/tbc/tbc/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://rtn.tv.br/wp-content/uploads/sites/38/2025/10/og.jpg", RTNTV
 https://tv01.zas.media:1936/rtntv/rtntv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://televisao.tv/images/tv-brasil.jpg", TV Brasil
 https://tvbrasil-stream.ebc.com.br/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/47/TVE_RS_%281999%29.png/revision/latest?cb=20170401214014", TVE RS (TV Brasil)
+https://streaming.procergs.com.br:8443/tve/stve/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/db/TV_A_Cr%C3%ADtica_2019.svg/revision/latest?cb=20231218232850" TV A Crítica
+https://cdn.live.br1.jmvstream.com/w/LVW-20715/LVW20715_50E3x2MCm2/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/734435ffe016d239b400dfc5bb56f35e.webp", FIFA+ Espanha
 https://d63fabad.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWVzX0ZJRkFQbHVzU3BhbmlzaF9ITFM/playlist.m3u8
@@ -174,4 +176,6 @@ http://dns.explouddev.com:80/632270679/F823j7133R/112004
 https://live.uvotv.com/hls/live/2119960/oestenews/streams/sessions/753cea9dc42d43f7bb145bf39ea6e459/media/playlist-orig.m3u8/fstl=exp=1782102488~acl=%2Fhls%2Flive%2F2119960%2Foestenews%2F%2A~hmac=c68fc0619c055a92ae052510fad57bb5816b377576fc875d9f88d723ec644eca/0.m3u8?CMCD=br%3D2128%2Ccid%3D%223429-live%22%2Cdl%3D0%2Cmtp%3D7400%2Cot%3Dm%2Csf%3Dh%2Csid%3D%22fa2cc90d-1635-4fa4-91a8-a0dd8e0d2539%22%2Cst%3Dl%2Ctb%3D2128
 
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/043f14943bd28c969a53abfd08ad8145.webp", TV Alerj
-https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1785633810/ei/skduaqT_AsyJg-UPud218AQ/ip/104.28.165.137/id/bZfzA64DM_E.3/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr5---sn-1gi7znes.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/bui/AZFlqhMPRq2HZz6IzeHVAlzIsAXVGaXkhkL0SgTo3GBLXEq_YmzfzALhPD7e801GuDKytns4o6iscVmW/spc/KBGBcoB6wqYaTpyv0XRPZQH6M-fRAC4TTMRyINa07yIS9lGFtA/vprv/1/reg/0/playlist_type/DVR/initcwndbps/1522500/met/1785612212,/mh/v7/mm/44/mn/sn-1gi7znes/ms/lva/mv/m/mvi/5/pl/24/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51565115/mt/1785611794/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,bui,spc,vprv,reg,playlist_type/sig/AE0s2JYwRAIgNj4P6KnnPZHOPjS_YqIxHJ9PVM_Y2Itt72d7gOEb6skCIDxfyqIePMDeQT60Pv593vk_xPLi6_OOHn8o3QbXsENF/lsparams/hls_chunk_host,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/APaTxxMwRgIhAP7b34bIi5FvMpwS3bQ0AT0rAR0Lc6TzooGRIQFmlM2-AiEA3ssa_soTtShtHy7EdzCZ-UTF-z0GizS_EOag9uRGtfE%3D/playlist/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/ESi8GwsWoAMSCOV.jpg", TV Aracati CE-Fortaleza
+https://video04.logicahost.com.br/tvaracati/tvaracati/playlist.m3u8
