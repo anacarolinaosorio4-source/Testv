@@ -6,7 +6,6 @@ https://tv02.zas.media:1936/tvonix/tvonix/playlist.m3u8
 https://cc6.streammaximum.com:20002/stream?nocache=1785612704860
 
 #EXTINF:-1 tvg-logo="https://th.bing.com/th/id/OIP.wqSK7rRXPXEovZ6PYKopegHaBQ?w=326&h=61&c=7&r=0&o=7&pid=1.7&rm=3", Xsports
-https://21d510d02139a803005e15547d6b034e.cazetv.shop/nossoplayer/0d90839077be145f96bba28350815972/file.txt
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/f/f8/SaoCarlosFC.png", SÃO CARLOS FC
 
@@ -15,7 +14,8 @@ https://21d510d02139a803005e15547d6b034e.cazetv.shop/nossoplayer/0d90839077be145
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/5/5e/Sbtn2010jpg.jpg/revision/latest/scale-to-width-down/250?cb=20180129064821", SBT News
 https://sbtnews.maissbt.com/3.m3u8
 
-#EXTINF:-1 tvg-logo="https://mais.sbt.com.br/_next/image?url=https%3A%2F%2Fstream.maissbt.com%2Fuploads%2F8ca8a009-33e5-444c-80e4-18c7a1838243.png&w=256&q=75", Show do Milhão
+#EXTINF:-1 tvg-logo="https://mais.sbt.com.br/_next/image?url=https%3A%2F%2Fstream.maissbt.com%2Fuploads%2F8ca8a009-33e5-444c-80e4-18c7a1838243.png&w=256&q=75", Show do Milhão - Chespirito
+https://sae12.playlist.ttvnw.net/v1/playlist/CqMHV4xZPWSJUdz67gLdcl5E-rDZslh7HFOzSKXOI7VHjcwxC3Dv1Q7rvyShs74w_86z3-mzR_Qx2AdUpyYWOF-GT1LkGaZLPAUud-TFOPWKz0_koBpfR2TXo29DUcB71t1KrTiS4EXsIXh5epoTfJz1RkL64JtZ8bRts4Wuchmy7ZwqnaFKHUIP77tgv_UKZ6IPKj4YcIUQwh8N58XRzdIXHiSaGbIdJxMZq5CLaKbo587DKTTOFF9bemeVU1hZyAyambBTC58lvfJOsWZasnY2LZFVqcE9AmR42UX6WSH7Kn-vbKBznXWLZ-SR7yeJHyuQF3VjoKr93wTNmAj_i9cY0TnYJmP1EyrF3kX94wndWMJnptmS3yrfG-Sd2Spfj35TptkEclxAvVFvUdJKnvQ363KO_KKyn1kCWm8s0YK9fez3_BtQmfxaOCdolOBhBei4jBKEJsE4bFFuRlaM-ORfiiFGzDOMTQVAixfFiy3zl-ZbEscdCAn4ioovYQzuNrX4NaDDOicKeMqBauju53ULEFIlI_O7OhtX3pz3-ZPuM-sXyxIbHvhUSLla8voZs2ZgfZPVMeymOCM0-897spYMKdDVovqPX7GNfzZrPpI2JsIdpfqy7mk0N5ofl0YbYQrIh-bYoqLRMQ-s8Lom62mbimVkTys5TWS4Nl9qEKQcsHNSnxyF5rZTo5vUJeIaDSTfVSB56szHONhuOigZbmRNfe68B4g_LHqCgkJbie49kvpmRB0N-zRwQAWHYa6il2ZBLEg_syP4sRKMoz-cVsm40hIOhSFi4X4rWqOyrhiE3tdn2zTwRSUTqw_N8GNhKiYfegBYt3NcnZqwcX0l767m82dNuybzZlyUmZ358c2_9qPAYXEZHiLAA0QDgewRj99FLOOHC8IM_uubVRTSi-Ca2zn_Iwbt0ATd1J2fpyLo66D2gMBy2MW1NbiV04Ie_4u_CP4I0lNRxUb4iTTKXcXbljFE-Mp6Hr-gXPAN7A4UmewwhMrEthBPajUnjEaq-_h1ZP_1yjiY2Wh8CqZ9ugvWtHua-AmURrrfrg-BbpnOU20fMrzPNHIACVBtwi50kUMt8X0EAbbmgcodqeDnfjlLlkcRERxZUwt2f8IM3jTqat34mfVtoDWagMUwKR7OEVai3eP4zmfoW6vY4JQMWrHZC-NeMIplTpzHDw8Zrd6JCRcnFPUlOaqod5jv7kL4E82nJ97WZKqDGFbr9IvxwqwdXtulahoM3wAVEXdwhulch7oBIAEqCXVzLWVhc3QtMjDzDw.m3u8
 
 #EXTINF:-1 tvg-logo="https://cultura.uol.com.br/upload/tvcultura/aovivo/happens_med/20250429175142_330x222.png", TV Cultura Fast
 https://fpa-gateway.tvcultura.com.br:8181/memfs/606caef0-a290-413d-9f1f-8fcdb3a73831.m3u8
