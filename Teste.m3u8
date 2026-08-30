@@ -14,8 +14,7 @@ https://cc6.streammaximum.com:20002/stream?nocache=1785612704860
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/5/5e/Sbtn2010jpg.jpg/revision/latest/scale-to-width-down/250?cb=20180129064821", SBT News
 https://sbtnews.maissbt.com/3.m3u8
 
-#EXTINF:-1 tvg-logo="https://mais.sbt.com.br/_next/image?url=https%3A%2F%2Fstream.maissbt.com%2Fuploads%2F8ca8a009-33e5-444c-80e4-18c7a1838243.png&w=256&q=75", Show do Milhão - Chespirito
-https://sae12.playlist.ttvnw.net/v1/playlist/CqMHV4xZPWSJUdz67gLdcl5E-rDZslh7HFOzSKXOI7VHjcwxC3Dv1Q7rvyShs74w_86z3-mzR_Qx2AdUpyYWOF-GT1LkGaZLPAUud-TFOPWKz0_koBpfR2TXo29DUcB71t1KrTiS4EXsIXh5epoTfJz1RkL64JtZ8bRts4Wuchmy7ZwqnaFKHUIP77tgv_UKZ6IPKj4YcIUQwh8N58XRzdIXHiSaGbIdJxMZq5CLaKbo587DKTTOFF9bemeVU1hZyAyambBTC58lvfJOsWZasnY2LZFVqcE9AmR42UX6WSH7Kn-vbKBznXWLZ-SR7yeJHyuQF3VjoKr93wTNmAj_i9cY0TnYJmP1EyrF3kX94wndWMJnptmS3yrfG-Sd2Spfj35TptkEclxAvVFvUdJKnvQ363KO_KKyn1kCWm8s0YK9fez3_BtQmfxaOCdolOBhBei4jBKEJsE4bFFuRlaM-ORfiiFGzDOMTQVAixfFiy3zl-ZbEscdCAn4ioovYQzuNrX4NaDDOicKeMqBauju53ULEFIlI_O7OhtX3pz3-ZPuM-sXyxIbHvhUSLla8voZs2ZgfZPVMeymOCM0-897spYMKdDVovqPX7GNfzZrPpI2JsIdpfqy7mk0N5ofl0YbYQrIh-bYoqLRMQ-s8Lom62mbimVkTys5TWS4Nl9qEKQcsHNSnxyF5rZTo5vUJeIaDSTfVSB56szHONhuOigZbmRNfe68B4g_LHqCgkJbie49kvpmRB0N-zRwQAWHYa6il2ZBLEg_syP4sRKMoz-cVsm40hIOhSFi4X4rWqOyrhiE3tdn2zTwRSUTqw_N8GNhKiYfegBYt3NcnZqwcX0l767m82dNuybzZlyUmZ358c2_9qPAYXEZHiLAA0QDgewRj99FLOOHC8IM_uubVRTSi-Ca2zn_Iwbt0ATd1J2fpyLo66D2gMBy2MW1NbiV04Ie_4u_CP4I0lNRxUb4iTTKXcXbljFE-Mp6Hr-gXPAN7A4UmewwhMrEthBPajUnjEaq-_h1ZP_1yjiY2Wh8CqZ9ugvWtHua-AmURrrfrg-BbpnOU20fMrzPNHIACVBtwi50kUMt8X0EAbbmgcodqeDnfjlLlkcRERxZUwt2f8IM3jTqat34mfVtoDWagMUwKR7OEVai3eP4zmfoW6vY4JQMWrHZC-NeMIplTpzHDw8Zrd6JCRcnFPUlOaqod5jv7kL4E82nJ97WZKqDGFbr9IvxwqwdXtulahoM3wAVEXdwhulch7oBIAEqCXVzLWVhc3QtMjDzDw.m3u8
+#EXTINF:-1 tvg-logo="https://mais.sbt.com.br/_next/image?url=https%3A%2F%2Fstream.maissbt.com%2Fuploads%2F8ca8a009-33e5-444c-80e4-18c7a1838243.png&w=256&q=75", Show do Milhão
 
 #EXTINF:-1 tvg-logo="https://cultura.uol.com.br/upload/tvcultura/aovivo/happens_med/20250429175142_330x222.png", TV Cultura Fast
 https://fpa-gateway.tvcultura.com.br:8181/memfs/606caef0-a290-413d-9f1f-8fcdb3a73831.m3u8
@@ -29,7 +28,9 @@ https://tvbrasilinternacional-stream.ebc.com.br/index.m3u8
 https://video03.logicahost.com.br/cariocainternacional1/cariocainternacional1/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://toppng.com/uploads/preview/sbt-vector-logo-download-free-11574196918wp2iw7t5t6.png",+SBT HD
-https://cr7v.short.gy/25mensais/s2/Whats7591634025.m3u8
+https://dai.google.com/linear/hls/pa/event/Gmgmn9icSMOL6TAePageWQ/stream/5d413e5b-3af0-4950-bc04-4d4dbbe98e75:SCL2/variant/0ded2e802add945e46654b5b8226ed9d/bandwidth/3860587.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/ce/SBT_Central_2014.png/revision/latest/scale-to-width-down/200?cb=20200320142722", SBT Central
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrXmxfR4hp3625cOumjooDbkKtoTRNg9Mg5A&s", SBT Interior SP
 https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/playlist.m3u8
