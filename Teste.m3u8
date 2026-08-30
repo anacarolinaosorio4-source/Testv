@@ -77,6 +77,9 @@ https://hqf6tcxuhk.singularcdn.net.br/live/0194f211-4229-749f-a47e-58f819471024/
 #EXTINF:-1 tvg-logo="https://glaucialima.com/wp-content/uploads/2023/10/BAND-E.jpg", Band Arapuan PB
 https://5b7f3c45ab7c2.streamlock.net/arapuan/ngrp:arapuan_all/chunklist.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.latinasat.com.br/logo.png", LATINA SAT Fortaleza-CE
+https://www.latinasat.com.br/hls/live/stream/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.vhv.rs/dpng/d/112-1127306_rede-globo-logo-1975-globo-logo-black-png.png", globo rj
 http://gerenciar.vivatele.com/viva_padrao/viva2384/1
 
