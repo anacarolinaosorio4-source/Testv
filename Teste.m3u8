@@ -6,6 +6,7 @@ https://tv02.zas.media:1936/tvonix/tvonix/playlist.m3u8
 https://cc6.streammaximum.com:20002/stream?nocache=1785612704860
 
 #EXTINF:-1 tvg-logo="https://th.bing.com/th/id/OIP.wqSK7rRXPXEovZ6PYKopegHaBQ?w=326&h=61&c=7&r=0&o=7&pid=1.7&rm=3", Xsports
+https://b9d800eaebe2ca8cf444580f283247d5.s21-cloudfront-net.lat/nossoplayer/8855e2774b039e39d6fd0e37eace6b65/file.txt
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/f/f8/SaoCarlosFC.png", SÃO CARLOS FC
 
@@ -28,9 +29,10 @@ https://tvbrasilinternacional-stream.ebc.com.br/index.m3u8
 https://video03.logicahost.com.br/cariocainternacional1/cariocainternacional1/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://toppng.com/uploads/preview/sbt-vector-logo-download-free-11574196918wp2iw7t5t6.png",+SBT HD
-https://dai.google.com/linear/hls/pa/event/Gmgmn9icSMOL6TAePageWQ/stream/5d413e5b-3af0-4950-bc04-4d4dbbe98e75:SCL2/variant/0ded2e802add945e46654b5b8226ed9d/bandwidth/3860587.m3u8
+https://dai.google.com/linear/hls/pa/event/Gmgmn9icSMOL6TAePageWQ/stream/41d2864c-f788-44f9-81bf-c831a22e99b5:SCL2/variant/1968b39ea17b6afa43831155df417ebe/bandwidth/2071916.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/ce/SBT_Central_2014.png/revision/latest/scale-to-width-down/200?cb=20200320142722", SBT Central
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1788199449/ei/uG2VaqD7O5mY-LAPzInqgAc/ip/2804%3A14d%3A8081%3A2b8c%3A1929%3A3ed6%3A2d3e%3A6860/id/k59Aiu3qRu0.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/ss/1/ssa/1/bui/AR3QkAnpLDbX96K5OA4Gj6q3lczAMq67IJus2PF5pjMh8EJ4YFYmUH4y-rqMQHQspRCTlWdTQWBb8ihS/spc/KBGBcjSesC_04e2OyVrSxEbo6EBDPTD_4GI4z_qIQW40wEC9Q7fiulGWRw/vprv/1/go/1/ns/3IA23gyCQYy3fgNv3YoJSKEY/rqh/5/reg/0/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51565115%2C52135441/dover/11/n/DWa2fKjCN44ALjLuGpW/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Css%2Cssa%2Cbui%2Cspc%2Cvprv%2Cgo%2Cns%2Crqh%2Creg%2Citag%2Cplaylist_type/sig/AE0s2JYwRQIgR5zOinbt5kCoD1sWUOFktvc-lPOXjFIMcis8EX01NeQCIQCAljJp1XFiBCZHMS7Viy9Yb0ONcQ2ot76rmjIK0_sH8w%3D%3D/file/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrXmxfR4hp3625cOumjooDbkKtoTRNg9Mg5A&s", SBT Interior SP
 https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/playlist.m3u8
