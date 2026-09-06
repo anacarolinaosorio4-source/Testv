@@ -6,7 +6,7 @@ https://tv02.zas.media:1936/tvonix/tvonix/playlist.m3u8
 https://cc6.streammaximum.com:20002/stream?nocache=1785612704860
 
 #EXTINF:-1 tvg-logo="https://th.bing.com/th/id/OIP.wqSK7rRXPXEovZ6PYKopegHaBQ?w=326&h=61&c=7&r=0&o=7&pid=1.7&rm=3", Xsports
-https://b9d800eaebe2ca8cf444580f283247d5.s21-cloudfront-net.lat/nossoplayer/8855e2774b039e39d6fd0e37eace6b65/file.txt
+https://7fc3ee9aad33036cc501b2ca7c163fc1.s21-cloudfront-net.lat/nossoplayer/5a997a66bd497d63c16706592598443a/file.txt
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/f/f8/SaoCarlosFC.png", SÃO CARLOS FC
 
@@ -29,10 +29,9 @@ https://tvbrasilinternacional-stream.ebc.com.br/index.m3u8
 https://video03.logicahost.com.br/cariocainternacional1/cariocainternacional1/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://toppng.com/uploads/preview/sbt-vector-logo-download-free-11574196918wp2iw7t5t6.png",+SBT HD
-https://dai.google.com/linear/hls/pa/event/Gmgmn9icSMOL6TAePageWQ/stream/41d2864c-f788-44f9-81bf-c831a22e99b5:SCL2/variant/1968b39ea17b6afa43831155df417ebe/bandwidth/2071916.m3u8
+https://7fc3ee9aad33036cc501b2ca7c163fc1.s21-cloudfront-net.lat/nossoplayer/3943369b612f040064a61577fe1a5349/file.txt
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/ce/SBT_Central_2014.png/revision/latest/scale-to-width-down/200?cb=20200320142722", SBT Central
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1788199449/ei/uG2VaqD7O5mY-LAPzInqgAc/ip/2804%3A14d%3A8081%3A2b8c%3A1929%3A3ed6%3A2d3e%3A6860/id/k59Aiu3qRu0.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/ss/1/ssa/1/bui/AR3QkAnpLDbX96K5OA4Gj6q3lczAMq67IJus2PF5pjMh8EJ4YFYmUH4y-rqMQHQspRCTlWdTQWBb8ihS/spc/KBGBcjSesC_04e2OyVrSxEbo6EBDPTD_4GI4z_qIQW40wEC9Q7fiulGWRw/vprv/1/go/1/ns/3IA23gyCQYy3fgNv3YoJSKEY/rqh/5/reg/0/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51565115%2C52135441/dover/11/n/DWa2fKjCN44ALjLuGpW/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Css%2Cssa%2Cbui%2Cspc%2Cvprv%2Cgo%2Cns%2Crqh%2Creg%2Citag%2Cplaylist_type/sig/AE0s2JYwRQIgR5zOinbt5kCoD1sWUOFktvc-lPOXjFIMcis8EX01NeQCIQCAljJp1XFiBCZHMS7Viy9Yb0ONcQ2ot76rmjIK0_sH8w%3D%3D/file/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrXmxfR4hp3625cOumjooDbkKtoTRNg9Mg5A&s", SBT Interior SP
 https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/playlist.m3u8
@@ -45,6 +44,9 @@ https://video05.logicahost.com.br/tvguajara/tvguajara/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBZz_JqMicSFkk4ducXMcdbSaj3vGQrkp6tikklBhv89SVvB0wdlxUG1s&s=10", SBT TV Aratu
 https://cdn.live.br1.jmvstream.com/w/LVW-9359/LVW9359_XSyReL0QVf/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/00/Record_Logo_2002_HQ.png/revision/latest?cb=20231113180829", RECORD TV
+https://7fc3ee9aad33036cc501b2ca7c163fc1.s21-cloudfront-net.lat/nossoplayer/66bd2f9fe96a2cae2ebfc74ee767060b/file.txt
 
 #EXTINF:-1 tvg-logo="https://tse3.mm.bing.net/th/id/OIP.sg6WjnnBEwrunxd3O_YxvwHaEU?rs=1&pid=ImgDetMain&o=7&rm=3", RecordTV Conquista MT
 https://tvconquistalrv.duckdns.org:3334/hls/tvconquistalrv.m3u8
@@ -66,6 +68,9 @@ https://rnw-rn.otteravision.com/rnw/rn/rnw_rn.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/isuhb1VguhQ/maxresdefault.jpg", Record News TV Guará 
 https://video02.logicahost.com.br/tvguara23/tvguara23/chunklist_w1492418717.m3u8
+
+#EXTINF:-1 tvg-logo="https://p7.hiclipart.com/preview/1008/95/662/tv-bandeirantes-campinas-logo-tv-bandeirantes-rio-de-janeiro-band.jpg", BAND
+https://7fc3ee9aad33036cc501b2ca7c163fc1.s21-cloudfront-net.lat/nossoplayer/392be57147d90af261079a916eecb15a/file.txt
 
 #EXTINF:-1 tvg-logo="https://portalaltadefinicao.com/wp-content/uploads/2017/07/RBATV-1.jpg", BAND PA
 https://cdn.jmvstream.com/w/LVW-15748/LVW15748_Yed7yzLuRC/playlist.m3u8
@@ -92,7 +97,6 @@ http://hls1.sua.tv/live/globotvbahiafhdbr2/s.m3u8
 http://s2.micineovs.com/GLOBO/tracks-v1a1/mono.m3u8?token=16FOTt9Ae2m8
 
 #EXTINF:-1 tvg-logo="https://www.vhv.rs/dpng/d/112-1127306_rede-globo-logo-1975-globo-logo-black-png.png", globo mg
-https://d1muf25xa04so8hp05.s27-usa-cloudfront-net.online/token/14cbc5ec96cf2f0bbc5500ac2db8d186/globomg.txt
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2vYqKX5.png", Imperial TV MA
 https://stmv6.voxtvhd.com.br/imperialtv/imperialtv/playlist.m3u8
