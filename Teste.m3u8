@@ -6,7 +6,7 @@ https://tv02.zas.media:1936/tvonix/tvonix/playlist.m3u8
 https://cc6.streammaximum.com:20002/stream?nocache=1785612704860
 
 #EXTINF:-1 tvg-logo="https://th.bing.com/th/id/OIP.wqSK7rRXPXEovZ6PYKopegHaBQ?w=326&h=61&c=7&r=0&o=7&pid=1.7&rm=3", Xsports
-https://7fc3ee9aad33036cc501b2ca7c163fc1.s21-cloudfront-net.lat/nossoplayer/5a997a66bd497d63c16706592598443a/file.txt
+https://e4002dc1e7deeaae4ed8e436ef1f3fbe.s21-cloudfront-net.lat/nossoplayer/aea0b986b7b4e73059190bddc720009a/file.txt
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/f/f8/SaoCarlosFC.png", SÃO CARLOS FC
 
@@ -29,7 +29,7 @@ https://tvbrasilinternacional-stream.ebc.com.br/index.m3u8
 https://video03.logicahost.com.br/cariocainternacional1/cariocainternacional1/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://toppng.com/uploads/preview/sbt-vector-logo-download-free-11574196918wp2iw7t5t6.png",+SBT HD
-https://7fc3ee9aad33036cc501b2ca7c163fc1.s21-cloudfront-net.lat/nossoplayer/3943369b612f040064a61577fe1a5349/file.txt
+https://dai.google.com/linear/hls/pa/event/Gmgmn9icSMOL6TAePageWQ/stream/c121d1d3-9130-498a-89f8-0e7378c99976:SCL2/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/ce/SBT_Central_2014.png/revision/latest/scale-to-width-down/200?cb=20200320142722", SBT Central
 
